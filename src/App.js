@@ -1,12 +1,12 @@
 import './App.css';
-import SidebarLayout from "./SidebarLayout";
+import MainComponent from "./MainComponent";
 
 function App() {
 
     const testReport = window.testsReport
 
     return (
-        <SidebarLayout tests={testReport}/>
+        <MainComponent tests={testReport}/>
     );
 }
 

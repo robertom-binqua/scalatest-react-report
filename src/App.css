@@ -23,7 +23,7 @@
     border-color: green;
 }
 
-.test-menu > li  > a {
+.test-menu > li > a {
     color: white;
     text-decoration: none;
     border-color: red;
@@ -103,6 +103,30 @@
     justify-content: center;
     font-size: calc(10px + 2vmin);
     color: white;
+}
+
+.scenario-title{
+    background-color: #2db92d;
+    padding: 0.7em;
+    padding-left: 1em;
+}
+
+.scenario-steps {
+    list-style-type: none;
+}
+
+.scenario-step-item {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 1em;
+    border-left: solid;
+    border-bottom: solid;
+    border-color: #2db92d;
+    background-color:  #c1f0c1;
+    margin: 0.5em;
+    margin-left:  -1em;
+    border-left-width: 10px;
+    border-bottom-width: 2px;
 }
 
 .App-link {

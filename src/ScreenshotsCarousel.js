@@ -3,8 +3,8 @@ import {Splide, SplideSlide} from '@splidejs/react-splide';
 const ScreenshotsCarousel = () => {
     return (
         <Splide aria-label="My Favorite Images" options={{
-            perPage: 4,
-            rewind: true,
+            perPage: 3,
+            rewind: false,
         }}>
             <SplideSlide>
                 <div className="border">
@@ -17,9 +17,10 @@ const ScreenshotsCarousel = () => {
                 </div>
             </SplideSlide>
             <SplideSlide>
-                <div className="border">
+                <div>
                     <img src="/screenshots/resized_SS1_onEnter.png" />
                 </div>
+                <div>screenshot 1</div>
             </SplideSlide>
             <SplideSlide>
                 <div className="border">

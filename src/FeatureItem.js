@@ -9,7 +9,8 @@ const FeatureItem = (props) => {
     if (areScenariosShown) {
         scenarios = (
             <ul className="scenario-menu">
-                {props.scenarios.map(s => <ScenarioItem key={s.ordinal} name={s.description}/>)}
+                {props.scenarios.map(s => <ScenarioItem key={s.ordinal} scenario={s}
+                                                        onChangeContent={props.onChangeContent}/>)}
             </ul>
         )
     } else {

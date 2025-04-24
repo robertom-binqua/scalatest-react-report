@@ -818,6 +818,31 @@ window.testsReport = [
                             }
                         ],
                         "steps" : [
+                            {
+                                "message" : "Given 1",
+                                "timestamp" : 1745341503978,
+                                "ordinal" : "1_13"
+                            },
+                            {
+                                "message" : "Then 3",
+                                "timestamp" : 1745341503978,
+                                "ordinal" : "1_14"
+                            },
+                            {
+                                "message" : "Then 4",
+                                "timestamp" : 1745341503978,
+                                "ordinal" : "1_111"
+                            },
+                            {
+                                "message" : "Then 5",
+                                "timestamp" : 1745341503978,
+                                "ordinal" : "1_112"
+                            },
+                            {
+                                "message" : "Then 6",
+                                "timestamp" : 1745341503978,
+                                "ordinal" : "1_113"
+                            }
                         ],
                         "testOutcome" : "succeeded"
                     }
@@ -867,6 +892,31 @@ window.testsReport = [
                             }
                         ],
                         "steps" : [
+                            {
+                                "message" : "Given 1",
+                                "timestamp" : 1745341503978,
+                                "ordinal" : "2_13"
+                            },
+                            {
+                                "message" : "Then 3",
+                                "timestamp" : 1745341503978,
+                                "ordinal" : "2_14"
+                            },
+                            {
+                                "message" : "Then 4",
+                                "timestamp" : 1745341503978,
+                                "ordinal" : "2_111"
+                            },
+                            {
+                                "message" : "Then 5",
+                                "timestamp" : 1745341503978,
+                                "ordinal" : "2_112"
+                            },
+                            {
+                                "message" : "Then 6",
+                                "timestamp" : 1745341503978,
+                                "ordinal" : "2_113"
+                            }
                         ],
                         "testOutcome" : "succeeded"
                     },
