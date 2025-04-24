@@ -1,38 +1,111 @@
-.App {
-  text-align: center;
+:root {
+    --gap-size: 0.5rem;
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+    height: 40vmin;
+    pointer-events: none;
 }
 
+.test-menu {
+    gap: var(--gap-size);
+    padding-left: 1em;
+    list-style-type: none;
+    border-style: dashed;
+    margin: 0;
+}
+
+.test-menu > li {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    border-style: dashed;
+    border-color: green;
+}
+
+.test-menu > li  > a {
+    color: white;
+    text-decoration: none;
+    border-color: red;
+    border-style: dashed;
+}
+
+.feature-menu {
+    list-style-type: none;
+    margin-top: 0.5em;
+    padding-left: 0;
+    /*padding-bottom: 0.5em;*/
+    border-style: groove;
+    background-color: red;
+    /*box-sizing: border-box;*/
+}
+
+.feature-menu > li {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border-style: dashed;
+    background-color: #61dafb;
+}
+
+.feature-menu > li > a {
+    padding-right: 1em;
+    padding-left: 1em;
+    border-style: dashed;
+    color: yellow;
+    text-decoration: none;
+}
+
+.scenario-menu {
+    list-style-type: none;
+    padding-top: 0.5em;
+    padding-left: 1em;
+    padding-bottom: 0.5em;
+    border-style: solid;
+    border-color: green;
+}
+
+.scenario-menu > li {
+    display: block;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border-style: dashed;
+    margin-left: -1em;
+    overflow: hidden;
+}
+
+.scenario-menu > li > a {
+    padding-right: 1em;
+    padding-left: 1em;
+    color: green;
+    text-decoration: none;
+    white-space: nowrap;
+    border-style: dashed;
+    margin-left: 0.1em;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
 }
 
 .App-link {
-  color: #61dafb;
+    color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
