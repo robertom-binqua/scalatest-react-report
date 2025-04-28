@@ -1,6 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import React, {useState} from "react";
-import FeatureItem from "./FeatureItem";
+import FeatureItems from "./FeatureItems";
 
 const TestItem = (props) => {
     const [areFeaturesShown, setAreFeaturesShown] = useState(false);
@@ -8,9 +8,9 @@ const TestItem = (props) => {
     let features;
     if (areFeaturesShown) {
         features = (
-            <ul className="feature-menu">
-                {props.features.map(s => <FeatureItem key={s.id} id={s.id} name={s.description}
-                                                     scenarios={s.scenarios} onChangeContent={props.onChangeContent}/> )}
+            <ul className="feature-menu"> Features:
+                {props.features.map(s => <FeatureItems key={s.id} id={s.id} name={s.description}
+                                                       scenarios={s.scenarios} onChangeContent={props.onChangeContent}/> )}
             </ul>
         )
     } else {

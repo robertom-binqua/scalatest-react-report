@@ -1,59 +1,40 @@
 import {Splide, SplideSlide} from '@splidejs/react-splide';
 
-const ScreenshotsCarousel = () => {
-    return (
-        <Splide aria-label="My Favorite Images" options={{
-            perPage: 3,
-            rewind: false,
-        }}>
-            <SplideSlide>
-                <div className="border">
-                    <img src="/screenshots/resized_SS1_onEnter.png"/>
+const ScreenshotsCarousel = (props) => {
+
+    let carousel
+
+    if (props.scenarioSelected == null)
+        carousel = null
+    else {
+        let slides = props.scenarioSelected
+            .screenshots
+            .map(s => {
+                    let index = "screenshot: " + s.index + " of " + props.scenarioSelected.screenshots.length
+                    return (<SplideSlide key={s.index}>
+                        <div className="d-flex flex-column m-0">
+                            <img className="p-1 screenshot-img" width={342} height={"auto"}
+                                 src={props.screenshotsLocationPrefix + s.originalLocation}/>
+                            <p className="p-1  m-0">{s.pageUrl}</p>
+                            <p className="p-1  m-0">{index}</p>
+                        </div>
+                    </SplideSlide>)
+                }
+            )
+        if (slides.length > 0)
+            carousel = (
+                <div className="scenario-screenshots">
+                    <Splide aria-label="My Favorite Images" options={{
+                        perPage: 5,
+                        rewind: false,
+                    }}>
+                        {slides}
+                    </Splide>
                 </div>
-            </SplideSlide>
-            <SplideSlide>
-                <div className="border">
-                    <img src="/screenshots/resized_SS1_onEnter.png" />
-                </div>
-            </SplideSlide>
-            <SplideSlide>
-                <div>
-                    <img src="/screenshots/resized_SS1_onEnter.png" />
-                </div>
-                <div>screenshot 1</div>
-            </SplideSlide>
-            <SplideSlide>
-                <div className="border">
-                    <img src="/screenshots/resized_SS1_onEnter.png" />
-                </div>
-            </SplideSlide>
-            <SplideSlide>
-                <div className="border">
-                    <img src="/screenshots/resized_SS1_onEnter.png" />
-                </div>
-            </SplideSlide>
-            <SplideSlide>
-                <div className="border">
-                    <img src="/screenshots/resized_SS1_onEnter.png" />
-                </div>
-            </SplideSlide>
-            <SplideSlide>
-                <div className="border">
-                    <img src="/screenshots/resized_SS1_onEnter.png"/>
-                </div>
-            </SplideSlide>
-            <SplideSlide>
-                <div className="border">
-                    <img src="/screenshots/resized_SS1_onEnter.png"/>
-                </div>
-            </SplideSlide>
-            <SplideSlide>
-                <div className="border">
-                    <img src="/screenshots/resized_SS1_onEnter.png" />
-                </div>
-            </SplideSlide>
-        </Splide>
-    );
+            )
+    }
+
+    return carousel;
 };
 
 export default ScreenshotsCarousel;

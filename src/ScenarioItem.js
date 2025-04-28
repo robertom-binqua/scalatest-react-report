@@ -3,8 +3,6 @@ import React from "react";
 
 const ScenarioItem = (props) => {
 
-    console.log(props.scenario)
-
     function onClickHandler(event) {
         event.preventDefault();
         props.onChangeContent(props.scenario)
@@ -12,7 +10,7 @@ const ScenarioItem = (props) => {
 
     return (
         <li>
-            <a id={props.scenario.ordinal} href="/" onClick={onClickHandler}>{props.scenario.description}</a>
+            <a id={props.scenario.ordinal} href="/" onClick={onClickHandler}>{(props.index + 1) + ". - " +props.scenario.description}</a>
         </li>
     );
 };

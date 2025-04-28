@@ -2,14 +2,15 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import React, {useState} from "react";
 import ScenarioItem from "./ScenarioItem";
 
-const FeatureItem = (props) => {
+const FeatureItems = (props) => {
     const [areScenariosShown, setAreScenariosShown] = useState(false);
 
     let scenarios;
     if (areScenariosShown) {
         scenarios = (
             <ul className="scenario-menu">
-                {props.scenarios.map(s => <ScenarioItem key={s.ordinal} scenario={s}
+                Scenarios:
+                {props.scenarios.map((s,index) => <ScenarioItem key={s.ordinal} index={index} scenario={s}
                                                         onChangeContent={props.onChangeContent}/>)}
             </ul>
         )
@@ -30,4 +31,4 @@ const FeatureItem = (props) => {
     );
 };
 
-export default FeatureItem;
+export default FeatureItems;

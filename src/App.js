@@ -6,7 +6,7 @@ function App() {
     const testReport = window.testsReport
 
     return (
-        <MainComponent tests={testReport}/>
+        <MainComponent tests={testReport.testsReport} screenshotsLocationPrefix={testReport.screenshotsLocationPrefix}/>
     );
 }
 
