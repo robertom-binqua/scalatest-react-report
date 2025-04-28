@@ -25,7 +25,7 @@ const ScreenshotsCarousel = (props) => {
             carousel = (
                 <div className="scenario-screenshots">
                     <Splide aria-label="My Favorite Images" options={{
-                        perPage: 5,
+                        perPage: 3,
                         rewind: false,
                     }}>
                         {slides}

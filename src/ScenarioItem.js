@@ -10,7 +10,8 @@ const ScenarioItem = (props) => {
 
     return (
         <li>
-            <a id={props.scenario.ordinal} href="/" onClick={onClickHandler}>{(props.index + 1) + ". - " +props.scenario.description}</a>
+            <a id={props.scenario.ordinal} href="/"
+               onClick={onClickHandler}>{(props.index + 1) + ". - " + props.scenario.description}</a>
         </li>
     );
 };

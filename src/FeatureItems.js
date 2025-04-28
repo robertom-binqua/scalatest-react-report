@@ -25,7 +25,7 @@ const FeatureItems = (props) => {
 
     return (
         <li>
-            <a id={props.id} href="/" onClick={handleVisibility}>{props.name}</a>
+            <a id={props.id} href="/" onClick={handleVisibility}>{(props.index + 1) + ". - " + props.name}</a>
             {scenarios}
         </li>
     );

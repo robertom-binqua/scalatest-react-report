@@ -9,7 +9,7 @@ const TestItem = (props) => {
     if (areFeaturesShown) {
         features = (
             <ul className="feature-menu"> Features:
-                {props.features.map(s => <FeatureItems key={s.id} id={s.id} name={s.description}
+                {props.features.map((s,index) => <FeatureItems key={s.id} id={s.id} index={index} name={s.description}
                                                        scenarios={s.scenarios} onChangeContent={props.onChangeContent}/> )}
             </ul>
         )
@@ -24,7 +24,7 @@ const TestItem = (props) => {
 
     return (
         <li>
-            <a id={props.id} href="/" onClick={handleVisibility}>{props.name}</a>
+            <a id={props.id} href="/" onClick={handleVisibility}>{(props.index + 1) + ". - " + props.name}</a>
             {features}
         </li>
     );

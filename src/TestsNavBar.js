@@ -6,7 +6,7 @@ const TestsNavBar = (props) => {
 
     return (
         <ul className="test-menu">Tests:
-            {props.tests.map(t => <TestItem key={t.id} id={t.id} name={t.name} features={t.features} onChangeContent={props.onChangeContent}/>)}
+            {props.tests.map((t,index) => <TestItem key={t.id} id={t.id} name={t.name} features={t.features} index={index} onChangeContent={props.onChangeContent}/>)}
         </ul>
     );
 };
