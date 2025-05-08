@@ -1,0 +1,263 @@
+window.testsReport = {
+  "screenshotsLocationPrefix" : "report/screenshots/",
+  "testsReport" : [
+    {
+      "name" : "org.binqua.scalatest.integration.ReactAppUsagePurpose",
+      "id" : "t_1_3",
+      "features" : [
+        {
+          "description" : "We can go through all the page of our app from home to page 4",
+          "id" : "f_1_3",
+          "scenarios" : [
+            {
+              "id" : "s_1_3",
+              "description" : "we can go from home page to last page - scenario 1",
+              "startedTimestamp" : 1746618902479,
+              "finishedTimestamp" : 1746618904139,
+              "screenshots" : [
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "http://localhost:8081/home.html",
+                  "index" : 1,
+                  "pageTitle" : "Home",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "http://localhost:8081/page1.html",
+                  "index" : 2,
+                  "pageTitle" : "Page 1",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "http://localhost:8081/page1.html",
+                  "index" : 3,
+                  "pageTitle" : "Page 1",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "http://localhost:8081/page2.html",
+                  "index" : 4,
+                  "pageTitle" : "Page 2",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "http://localhost:8081/page2.html",
+                  "index" : 5,
+                  "pageTitle" : "Page 2",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "http://localhost:8081/page3.html",
+                  "index" : 6,
+                  "pageTitle" : "Page 3",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "http://localhost:8081/page3.html",
+                  "index" : 7,
+                  "pageTitle" : "Page 3",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "http://localhost:8081/page4.html",
+                  "index" : 8,
+                  "pageTitle" : "Page 4",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                }
+              ],
+              "steps" : [
+                {
+                  "message" : "Given we go to the home page",
+                  "timestamp" : 1746618904138,
+                  "id" : "st_1_4"
+                },
+                {
+                  "message" : "When we click page 1",
+                  "timestamp" : 1746618904138,
+                  "id" : "st_1_5"
+                },
+                {
+                  "message" : "Then we jump to Page1",
+                  "timestamp" : 1746618904138,
+                  "id" : "st_1_6"
+                },
+                {
+                  "message" : "And when we click page 2",
+                  "timestamp" : 1746618904139,
+                  "id" : "st_1_7"
+                },
+                {
+                  "message" : "Then we jump to Page2",
+                  "timestamp" : 1746618904139,
+                  "id" : "st_1_8"
+                },
+                {
+                  "message" : "And when we click page 3",
+                  "timestamp" : 1746618904139,
+                  "id" : "st_1_9"
+                },
+                {
+                  "message" : "Then we jump to Page3",
+                  "timestamp" : 1746618904139,
+                  "id" : "st_1_10"
+                },
+                {
+                  "message" : "And when we click page 4",
+                  "timestamp" : 1746618904139,
+                  "id" : "st_1_11"
+                },
+                {
+                  "message" : "Then we jump to Page4",
+                  "timestamp" : 1746618904139,
+                  "id" : "st_1_12"
+                }
+              ],
+              "testOutcome" : "succeeded"
+            }
+          ]
+        },
+        {
+          "description" : "We can go through all the page of our app from home to page 4 - feature 2",
+          "id" : "f_2_3",
+          "scenarios" : [
+            {
+              "id" : "s_2_3",
+              "description" : "this is another example - we can go from home page to last page - scenario 2",
+              "startedTimestamp" : 1746618902479,
+              "finishedTimestamp" : 1746618904139,
+              "screenshots" : [
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "http://localhost:8081/home.html",
+                  "index" : 1,
+                  "pageTitle" : "Home",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "http://localhost:8081/page1.html",
+                  "index" : 2,
+                  "pageTitle" : "Page 1",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "http://localhost:8081/page1.html",
+                  "index" : 3,
+                  "pageTitle" : "Page 1",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "http://localhost:8081/page2.html",
+                  "index" : 4,
+                  "pageTitle" : "Page 2",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "http://localhost:8081/page2.html",
+                  "index" : 5,
+                  "pageTitle" : "Page 2",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "http://localhost:8081/page3.html",
+                  "index" : 6,
+                  "pageTitle" : "Page 3",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "http://localhost:8081/page3.html",
+                  "index" : 7,
+                  "pageTitle" : "Page 3",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "http://localhost:8081/page4.html",
+                  "index" : 8,
+                  "pageTitle" : "Page 4",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                }
+              ],
+              "steps" : [
+                {
+                  "message" : "Given we go to the home page",
+                  "timestamp" : 1746618904138,
+                  "id" : "st_2_4"
+                },
+                {
+                  "message" : "When we click page 1",
+                  "timestamp" : 1746618904138,
+                  "id" : "st_2_5"
+                },
+                {
+                  "message" : "Then we jump to Page1",
+                  "timestamp" : 1746618904138,
+                  "id" : "st_2_6"
+                },
+                {
+                  "message" : "And when we click page 2",
+                  "timestamp" : 1746618904139,
+                  "id" : "st_2_7"
+                },
+                {
+                  "message" : "Then we jump to Page2",
+                  "timestamp" : 1746618904139,
+                  "id" : "st_2_8"
+                },
+                {
+                  "message" : "And when we click page 3",
+                  "timestamp" : 1746618904139,
+                  "id" : "st_2_9"
+                },
+                {
+                  "message" : "Then we jump to Page3",
+                  "timestamp" : 1746618904139,
+                  "id" : "st_2_10"
+                },
+                {
+                  "message" : "And when we click page 4",
+                  "timestamp" : 1746618904139,
+                  "id" : "st_2_11"
+                },
+                {
+                  "message" : "Then we jump to Page4",
+                  "timestamp" : 1746618904139,
+                  "id" : "st_2_12"
+                }
+              ],
+              "testOutcome" : "succeeded"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

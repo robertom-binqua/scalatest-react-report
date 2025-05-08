@@ -1,12 +1,18 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import React from "react";
-import TestItem from "./TestItem";
+import MenuTestItem from "./MenuTestItem";
 
-const TestsNavBar = (props) => {
+const TestsNavBar = ({tests, testSelected, changeTestSelection}) => {
 
     return (
-        <ul className="test-menu">Tests:
-            {props.tests.map((t,index) => <TestItem key={t.id} id={t.id} name={t.name} features={t.features} index={index} onChangeContent={props.onChangeContent}/>)}
+        <ul className="test-menu">
+            {tests.map((t, index) => <MenuTestItem key={t.id}
+                                                   id={t.id}
+                                                   name={t.name}
+                                                   features={t.features}
+                                                   index={index}
+                                                   testSelected={testSelected}
+                                                   changeTestSelection={changeTestSelection}/>)}
         </ul>
     );
 };
