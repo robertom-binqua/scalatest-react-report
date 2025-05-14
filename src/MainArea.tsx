@@ -1,18 +1,22 @@
 import React, {useRef, useState} from "react";
-import MainContent from "./MainContent";
-import TestsNavBar from "./TestsNavBar";
+import ScenarioDetails, {ScenarioDetailsProps} from "./ScenarioDetailsData";
+import {TestsReportResult} from "./model";
+import {TestsVisibility} from "./testMapBuilder";
+import TestsNavBar from "./components/navmenu/TestsNavBar";
 
-function MainArea({
-                      tests,
-                      screenshotsLocationPrefix,
-                      testSelected,
-                      changeTestSelection
-                  }) {
+export interface MainAreaProps {
+    testsReportResult: TestsReportResult
+    testsVisibility: TestsVisibility
+    changeTestSelection: (i: any) => void
+    scenarioDetailsProps: ScenarioDetailsProps
+}
+
+function MainArea({testsReportResult, testsVisibility, changeTestSelection, scenarioDetailsProps}: MainAreaProps) {
     const sidebarRef = useRef(null);
     const [isResizing, setIsResizing] = useState(false);
     const [sidebarWidth, setSidebarWidth] = useState(1000);
 
-    const startResizing = React.useCallback((mouseDownEvent) => {
+    const startResizing = React.useCallback(() => {
         setIsResizing(true);
     }, []);
 
@@ -20,12 +24,14 @@ function MainArea({
         setIsResizing(false);
     }, []);
 
+    // @ts-ignore
     const resize = React.useCallback(
-        (mouseMoveEvent) => {
+        (mouseMoveEvent: any) => {
             if (isResizing) {
+                let ref: any = sidebarRef.current
                 setSidebarWidth(
                     mouseMoveEvent.clientX -
-                    sidebarRef.current.getBoundingClientRect().left
+                    ref.getBoundingClientRect().left
                 );
             }
         },
@@ -50,17 +56,14 @@ function MainArea({
                 onMouseDown={(e) => e.preventDefault()}
             >
                 <div className="app-sidebar-content">
-                    <TestsNavBar tests={tests}
-                                 testSelected={testSelected}
+                    <TestsNavBar testsReportResult={testsReportResult}
+                                 testsVisibility={testsVisibility}
                                  changeTestSelection={changeTestSelection}/>
                 </div>
                 <div className="app-sidebar-resizer" onMouseDown={startResizing}/>
             </div>
             <div className="app-frame">
-                <MainContent tests={tests}
-                             screenshotsLocationPrefix={screenshotsLocationPrefix}
-                             testSelected={testSelected}
-                />
+                <ScenarioDetails scenarioDetails={scenarioDetailsProps.scenarioDetails}/>
             </div>
         </div>
     );

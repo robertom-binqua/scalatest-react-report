@@ -1,11 +1,21 @@
-import { useState } from 'react';
+import {useState} from 'react';
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
+import {TestSelection} from "./model";
 
-function SearchLauncher() {
+
+export interface SearchLauncherProps {
+    changeTestSelection: (testSelection: TestSelection) => void
+}
+
+function SearchLauncher({changeTestSelection}: SearchLauncherProps) {
     const [show, setShow] = useState(false);
 
-    const handleClose = () => setShow(false);
+    const handleClose = () => {
+        changeTestSelection({type: "scenario", t: "t_3_3", f: "f_3_3", s: "s_3_3"})
+        setShow(false);
+    }
+
     const handleShow = () => setShow(true);
 
     return (

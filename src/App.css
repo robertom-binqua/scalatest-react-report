@@ -84,6 +84,7 @@
 .test-menu > li {
     padding-top: 0.5em;
     padding-bottom: 0.5em;
+    border-style: dashed;
 }
 
 .test-menu > li > a {
@@ -94,14 +95,13 @@
 .feature-menu {
     list-style-type: none;
     margin-top: 0.5em;
-    /*padding-bottom: 0.5em;*/
-    /*box-sizing: border-box;*/
 }
 
 .feature-menu > li {
     padding-top: 0.5em;
-    padding-bottom: 0.5em;
     padding-right: 1em;
+    border-style: dashed;
+    overflow: hidden;
 }
 
 .feature-menu > li > a {
@@ -121,6 +121,7 @@
     padding-bottom: 0.5em;
     padding-right: 1em;
     overflow: hidden;
+    border-style: dashed;
 }
 
 .scenario-menu > li > a {
