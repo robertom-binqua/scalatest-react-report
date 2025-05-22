@@ -1,4 +1,4 @@
-import {TestReport, TestsReportResult} from "./model";
+import {ScenarioReport, ScenarioSearchResult, ScreenshotSearchResult, TestReport, TestsReportResult} from "./model";
 import {ScenarioDetailsProps} from "./ScenarioDetailsData";
 
 export interface ScenarioVisibility {
@@ -215,21 +215,22 @@ export function toggleTestVisibility(
     return newTestsVisibility;
 }
 
-export function extractScenarioDetails(testsReportResult: TestsReportResult, testId: string, featureId: string, scenarioId: string): ScenarioDetailsProps {
+export function extractScenarioDetails(testsReportResult: TestsReportResult, selection: ScenarioSearchResult | ScreenshotSearchResult): ScenarioDetailsProps {
     const testsReport = testsReportResult.testsReport
-    const maybeATest = testsReport.find((element) => element.id === testId);
-    if (!maybeATest) throw new Error(`test id ${testId} missing`);
+    const maybeATest = testsReport.find((element) => element.id === selection.t);
+    if (!maybeATest) throw new Error(`test id ${selection.t} missing`);
 
-    const maybeAFeature = maybeATest.features.find((element) => element.id === featureId);
-    if (!maybeAFeature) throw new Error(`feature id ${featureId} missing`);
+    const maybeAFeature = maybeATest.features.find((element) => element.id === selection.f);
+    if (!maybeAFeature) throw new Error(`feature id ${selection.f} missing`);
 
-    let maybeAScenario = maybeAFeature.scenarios.find(element => element.id === scenarioId);
-    if (!maybeAScenario) throw new Error(`test id ${scenarioId} missing`);
+    let maybeAScenario: ScenarioReport | undefined = maybeAFeature.scenarios.find(element => element.id === selection.s);
+    if (!maybeAScenario) throw new Error(`test id ${selection.s} missing`);
 
     return {
         scenarioDetails: {
             scenarioReport: maybeAScenario,
-            screenshotsLocationPrefix: testsReportResult.screenshotsLocationPrefix
+            screenshotsLocationPrefix: testsReportResult.screenshotsLocationPrefix,
+            screenshotSelected: ((selection.type === "screenshot") ? selection.ss : undefined)
         }
     }
 }

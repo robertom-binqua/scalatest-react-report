@@ -10,9 +10,10 @@ import {
     toggleFeatureVisibility,
     toggleTestVisibility
 } from "./testMapBuilder";
-import {TestSelection, TestsReportResult} from "./model";
-import SearchLauncher from "./SearchLauncher";
+import {SearchResultTestSelection, TestsReportResult} from "./model";
 import {ScenarioDetailsProps} from "./ScenarioDetailsData";
+import SearchLauncher, {ScreenshotByTitleAndUrl} from "./components/search/SearchLauncher";
+import {SearchLauncherUtils} from "./components/search/SearchLauncherUtils";
 
 function App() {
 
@@ -20,9 +21,10 @@ function App() {
         testsReport: [],
         screenshotsLocationPrefix: ""
     });
-    const [testsVisibility, setTestsVisibility] = useState<TestsVisibility>(new Map());
 
+    const [testsVisibility, setTestsVisibility] = useState<TestsVisibility>(new Map());
     const [scenarioDetailsProps, setScenarioDetailsProps] = useState<ScenarioDetailsProps>({});
+    const [screenshotsByTitleAndUrl, setScreenshotsByTitleAndUrl] = useState<ScreenshotByTitleAndUrl[]>([]);
 
     useEffect(() => {
         document.title = "Scalatest Report"
@@ -35,6 +37,7 @@ function App() {
             })
             .then((testsReportResult: TestsReportResult) => {
                 setTestsVisibility(calculateTestsVisibility(testsReportResult.testsReport))
+                setScreenshotsByTitleAndUrl(SearchLauncherUtils.calculateDataList(testsReportResult.testsReport))
                 setTestsReportResult(testsReportResult);
             })
             .catch((error) => {
@@ -42,7 +45,7 @@ function App() {
             });
     }, []);
 
-    function changeTestSelection(testSelection: TestSelection) {
+    function changeTestSelection(testSelection: SearchResultTestSelection) {
         switch (testSelection.type) {
             case "test":
                 setTestsVisibility(toggleTestVisibility(testsVisibility, testSelection.t))
@@ -51,10 +54,12 @@ function App() {
                 setTestsVisibility(toggleFeatureVisibility(testsVisibility, testSelection.t, testSelection.f))
                 return
             case "scenario":
-                let newTestVisibility: TestsVisibility = makeScenarioVisible(testsVisibility, testSelection.t, testSelection.f, testSelection.s);
-                const newScenarioDetailsProps: ScenarioDetailsProps = extractScenarioDetails(testsReportResult, testSelection.t, testSelection.f, testSelection.s)
-                setScenarioDetailsProps(newScenarioDetailsProps)
-                setTestsVisibility(newTestVisibility)
+                setScenarioDetailsProps(extractScenarioDetails(testsReportResult, testSelection))
+                setTestsVisibility(makeScenarioVisible(testsVisibility, testSelection.t, testSelection.f, testSelection.s))
+                return
+            case "screenshot":
+                setScenarioDetailsProps(extractScenarioDetails(testsReportResult, testSelection))
+                setTestsVisibility(makeScenarioVisible(testsVisibility, testSelection.t, testSelection.f, testSelection.s))
                 return
         }
     }
@@ -64,7 +69,8 @@ function App() {
             <Navbar sticky="top" className="bg-body-tertiary justify-content-between">
                 <Navbar.Brand href="#home" className="ms-3">Test Report</Navbar.Brand>
                 <div className="justify-content-end">
-                    <SearchLauncher changeTestSelection={changeTestSelection}></SearchLauncher>
+                    <SearchLauncher changeTestSelection={changeTestSelection} testsReportResult={testsReportResult}
+                                    screenshotsByTitleAndUrl={screenshotsByTitleAndUrl}/>
                     <Navbar.Text className="p-3 me-3">12 March 2025</Navbar.Text>
                 </div>
             </Navbar>

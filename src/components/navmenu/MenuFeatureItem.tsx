@@ -2,13 +2,13 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import React from "react";
 import MenuScenarioItem from "./MenuScenarioItem";
 import {FeatureVisibility} from "../../testMapBuilder";
-import {FeatureReport, ScenarioReport, TestSelection} from "../../model";
+import {FeatureReport, ScenarioReport, SearchResultTestSelection} from "../../model";
 export interface MenuFeatureItemProps {
     featureReport: FeatureReport;
     index: number;
     featureVisibility: FeatureVisibility;
     parent: { t: string };
-    changeTestSelection: (i: TestSelection) => void
+    changeTestSelection: (i: SearchResultTestSelection) => void
 }
 
 

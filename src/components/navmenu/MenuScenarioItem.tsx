@@ -1,13 +1,13 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import React from "react";
-import {ScenarioReport, TestSelection} from "../../model";
+import {ScenarioReport, SearchResultTestSelection} from "../../model";
 
 export interface MenuScenarioItemProps {
     scenarioReport: ScenarioReport;
     index: number;
     parent: { t: string, f: string };
     visibility?: boolean;
-    changeTestSelection: (testSelection: TestSelection) => void
+    changeTestSelection: (testSelection: SearchResultTestSelection) => void
 }
 
 const MenuScenarioItem = ({

@@ -14,7 +14,7 @@ export interface MainAreaProps {
 function MainArea({testsReportResult, testsVisibility, changeTestSelection, scenarioDetailsProps}: MainAreaProps) {
     const sidebarRef = useRef(null);
     const [isResizing, setIsResizing] = useState(false);
-    const [sidebarWidth, setSidebarWidth] = useState(1000);
+    const [sidebarWidth, setSidebarWidth] = useState(400);
 
     const startResizing = React.useCallback(() => {
         setIsResizing(true);
@@ -24,15 +24,13 @@ function MainArea({testsReportResult, testsVisibility, changeTestSelection, scen
         setIsResizing(false);
     }, []);
 
-    // @ts-ignore
     const resize = React.useCallback(
         (mouseMoveEvent: any) => {
-            if (isResizing) {
-                let ref: any = sidebarRef.current
-                setSidebarWidth(
-                    mouseMoveEvent.clientX -
-                    ref.getBoundingClientRect().left
-                );
+            let ref: any = sidebarRef.current
+            const newWidth = mouseMoveEvent.clientX - ref.getBoundingClientRect().left
+            if (isResizing && newWidth >= 400) {
+                console.log("diff is " + newWidth)
+                setSidebarWidth(newWidth);
             }
         },
         [isResizing]
@@ -53,7 +51,7 @@ function MainArea({testsReportResult, testsVisibility, changeTestSelection, scen
                 ref={sidebarRef}
                 className="app-sidebar"
                 style={{width: sidebarWidth}}
-                onMouseDown={(e) => e.preventDefault()}
+                onMouseDown={(e: React.MouseEvent<HTMLDivElement>) => e.preventDefault()}
             >
                 <div className="app-sidebar-content">
                     <TestsNavBar testsReportResult={testsReportResult}

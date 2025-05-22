@@ -53,12 +53,20 @@ export interface FeatureSelected {
 
 }
 
-export interface ScenarioSelected {
+export interface ScenarioSearchResult {
     type: "scenario"
     t: string;
     f: string;
     s: string;
 }
 
-export type TestSelection = | TestSelected | FeatureSelected | ScenarioSelected
+export interface ScreenshotSearchResult {
+    type: "screenshot"
+    t: string
+    f: string
+    s: string
+    ss: number
+}
+
+export type SearchResultTestSelection = | TestSelected | FeatureSelected | ScenarioSearchResult | ScreenshotSearchResult
 

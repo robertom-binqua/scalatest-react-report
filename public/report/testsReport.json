@@ -2,129 +2,687 @@
   "screenshotsLocationPrefix" : "report/screenshots/",
   "testsReport" : [
     {
-      "name" : "org.binqua.scalatest.integration.ReactAppUsagePurpose1",
+      "name" : "org.binqua.scalatest.tategallery.TateExample1Spec",
       "id" : "t_1_3",
       "features" : [
         {
-          "description" : "We can go through all the page of our app from home to page 4",
+          "description" : "we can visit https://www.tate.org.uk and become a member 1",
           "id" : "f_1_3",
           "scenarios" : [
             {
-              "id" : "s_1_3",
-              "description" : "we can go from home page to last page - scenario 1",
-              "startedTimestamp" : 1746618902479,
-              "finishedTimestamp" : 1746618904139,
+              "id" : "s_1_20",
+              "description" : "Happy path: secureCheckout our membership 3",
+              "startedTimestamp" : 1748715551364,
+              "finishedTimestamp" : 1748715554482,
               "screenshots" : [
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/1_ON_ENTER_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/1_ON_ENTER_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/home.html",
+                  "originalLocation" : "scenario_ordinal_1_20/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_20/sources/1_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_20/withNoHtml/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
                   "index" : 1,
-                  "pageTitle" : "Home",
+                  "pageTitle" : "Tate",
                   "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/2_ON_EXIT_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/2_ON_EXIT_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page1.html",
+                  "originalLocation" : "scenario_ordinal_1_20/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_20/sources/2_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_20/withNoHtml/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
                   "index" : 2,
-                  "pageTitle" : "Page 1",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_EXIT_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/3_ON_ENTER_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/3_ON_ENTER_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page1.html",
+                  "originalLocation" : "scenario_ordinal_1_20/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_20/sources/3_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_20/withNoHtml/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
                   "index" : 3,
-                  "pageTitle" : "Page 1",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/4_ON_EXIT_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/4_ON_EXIT_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page2.html",
+                  "originalLocation" : "scenario_ordinal_1_20/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_20/sources/4_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_20/withNoHtml/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
                   "index" : 4,
-                  "pageTitle" : "Page 2",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_EXIT_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/5_ON_ENTER_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/5_ON_ENTER_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page2.html",
+                  "originalLocation" : "scenario_ordinal_1_20/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_20/sources/5_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_20/withNoHtml/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
                   "index" : 5,
-                  "pageTitle" : "Page 2",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/6_ON_EXIT_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/6_ON_EXIT_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page3.html",
+                  "originalLocation" : "scenario_ordinal_1_20/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_20/sources/6_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_20/withNoHtml/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
                   "index" : 6,
-                  "pageTitle" : "Page 3",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_EXIT_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/7_ON_ENTER_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/7_ON_ENTER_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page3.html",
+                  "originalLocation" : "scenario_ordinal_1_20/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_20/sources/7_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_20/withNoHtml/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
                   "index" : 7,
-                  "pageTitle" : "Page 3",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/8_ON_EXIT_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/8_ON_EXIT_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page4.html",
+                  "originalLocation" : "scenario_ordinal_1_20/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_20/sources/8_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_20/withNoHtml/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
                   "index" : 8,
-                  "pageTitle" : "Page 4",
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_20/original/9_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_20/sources/9_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_20/withNoHtml/9_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 9,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_20/original/10_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_20/sources/10_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_20/withNoHtml/10_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 10,
+                  "pageTitle" : "My basket | Tate",
                   "screenshotMoment" : "ON_EXIT_PAGE"
                 }
               ],
               "steps" : [
                 {
-                  "message" : "Given we go to the home page",
-                  "timestamp" : 1746618904138,
+                  "message" : "given we go to https://www.tate.org.uk",
+                  "timestamp" : 1748715554482,
+                  "id" : "st_1_21"
+                },
+                {
+                  "message" : "and given we want to become a member",
+                  "timestamp" : 1748715554482,
+                  "id" : "st_1_22"
+                },
+                {
+                  "message" : "and given we are absolutely sure to continue",
+                  "timestamp" : 1748715554482,
+                  "id" : "st_1_23"
+                },
+                {
+                  "message" : "after we select no gift aid",
+                  "timestamp" : 1748715554482,
+                  "id" : "st_1_24"
+                },
+                {
+                  "message" : "we can add the purchase to the basket",
+                  "timestamp" : 1748715554482,
+                  "id" : "st_1_25"
+                },
+                {
+                  "message" : "and secure checkout the basket",
+                  "timestamp" : 1748715554482,
+                  "id" : "st_1_26"
+                }
+              ],
+              "testOutcome" : "succeeded"
+            },
+            {
+              "id" : "s_1_28",
+              "description" : "Happy path: secureCheckout our membership 4",
+              "startedTimestamp" : 1748715554482,
+              "finishedTimestamp" : 1748715557732,
+              "screenshots" : [
+                {
+                  "originalLocation" : "scenario_ordinal_1_28/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_28/sources/1_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_28/withNoHtml/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
+                  "index" : 1,
+                  "pageTitle" : "Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_28/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_28/sources/2_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_28/withNoHtml/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 2,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_28/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_28/sources/3_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_28/withNoHtml/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 3,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_28/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_28/sources/4_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_28/withNoHtml/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 4,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_28/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_28/sources/5_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_28/withNoHtml/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 5,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_28/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_28/sources/6_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_28/withNoHtml/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 6,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_28/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_28/sources/7_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_28/withNoHtml/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 7,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_28/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_28/sources/8_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_28/withNoHtml/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 8,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_28/original/9_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_28/sources/9_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_28/withNoHtml/9_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 9,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_28/original/10_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_28/sources/10_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_28/withNoHtml/10_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 10,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                }
+              ],
+              "steps" : [
+                {
+                  "message" : "given we go to https://www.tate.org.uk",
+                  "timestamp" : 1748715557732,
+                  "id" : "st_1_29"
+                },
+                {
+                  "message" : "and given we want to become a member",
+                  "timestamp" : 1748715557732,
+                  "id" : "st_1_30"
+                },
+                {
+                  "message" : "and given we are absolutely sure to continue",
+                  "timestamp" : 1748715557732,
+                  "id" : "st_1_31"
+                },
+                {
+                  "message" : "after we select no gift aid",
+                  "timestamp" : 1748715557732,
+                  "id" : "st_1_32"
+                },
+                {
+                  "message" : "we can add the purchase to the basket",
+                  "timestamp" : 1748715557732,
+                  "id" : "st_1_33"
+                },
+                {
+                  "message" : "and secure checkout the basket",
+                  "timestamp" : 1748715557732,
+                  "id" : "st_1_34"
+                }
+              ],
+              "testOutcome" : "succeeded"
+            },
+            {
+              "id" : "s_1_36",
+              "description" : "Happy path: secureCheckout our membership 5",
+              "startedTimestamp" : 1748715557732,
+              "finishedTimestamp" : 1748715560882,
+              "screenshots" : [
+                {
+                  "originalLocation" : "scenario_ordinal_1_36/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_36/sources/1_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_36/withNoHtml/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
+                  "index" : 1,
+                  "pageTitle" : "Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_36/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_36/sources/2_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_36/withNoHtml/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 2,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_36/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_36/sources/3_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_36/withNoHtml/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 3,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_36/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_36/sources/4_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_36/withNoHtml/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 4,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_36/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_36/sources/5_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_36/withNoHtml/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 5,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_36/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_36/sources/6_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_36/withNoHtml/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 6,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_36/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_36/sources/7_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_36/withNoHtml/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 7,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_36/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_36/sources/8_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_36/withNoHtml/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 8,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_36/original/9_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_36/sources/9_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_36/withNoHtml/9_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 9,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_36/original/10_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_36/sources/10_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_36/withNoHtml/10_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 10,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                }
+              ],
+              "steps" : [
+                {
+                  "message" : "given we go to https://www.tate.org.uk",
+                  "timestamp" : 1748715560882,
+                  "id" : "st_1_37"
+                },
+                {
+                  "message" : "and given we want to become a member",
+                  "timestamp" : 1748715560882,
+                  "id" : "st_1_38"
+                },
+                {
+                  "message" : "and given we are absolutely sure to continue",
+                  "timestamp" : 1748715560882,
+                  "id" : "st_1_39"
+                },
+                {
+                  "message" : "after we select no gift aid",
+                  "timestamp" : 1748715560882,
+                  "id" : "st_1_40"
+                },
+                {
+                  "message" : "we can add the purchase to the basket",
+                  "timestamp" : 1748715560882,
+                  "id" : "st_1_41"
+                },
+                {
+                  "message" : "and secure checkout the basket",
+                  "timestamp" : 1748715560882,
+                  "id" : "st_1_42"
+                }
+              ],
+              "testOutcome" : "succeeded"
+            },
+            {
+              "id" : "s_1_3",
+              "description" : "Happy path: secureCheckout our membership 1",
+              "startedTimestamp" : 1748715541966,
+              "finishedTimestamp" : 1748715548184,
+              "screenshots" : [
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/1_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_3/withNoHtml/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
+                  "index" : 1,
+                  "pageTitle" : "Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/2_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_3/withNoHtml/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
+                  "index" : 2,
+                  "pageTitle" : "Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/3_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_3/withNoHtml/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
+                  "index" : 3,
+                  "pageTitle" : "Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/4_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_3/withNoHtml/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 4,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/5_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_3/withNoHtml/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 5,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/6_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_3/withNoHtml/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 6,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/7_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_3/withNoHtml/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 7,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/8_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_3/withNoHtml/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 8,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/9_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/9_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_3/withNoHtml/9_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 9,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/10_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/10_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_3/withNoHtml/10_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 10,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/11_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/11_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_3/withNoHtml/11_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 11,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_3/original/12_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_3/sources/12_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_3/withNoHtml/12_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 12,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                }
+              ],
+              "steps" : [
+                {
+                  "message" : "given we go to https://www.tate.org.uk",
+                  "timestamp" : 1748715548180,
                   "id" : "st_1_4"
                 },
                 {
-                  "message" : "When we click page 1",
-                  "timestamp" : 1746618904138,
+                  "message" : "and given we accept to proceed",
+                  "timestamp" : 1748715548180,
                   "id" : "st_1_5"
                 },
                 {
-                  "message" : "Then we jump to Page1",
-                  "timestamp" : 1746618904138,
+                  "message" : "and given we want to become a member",
+                  "timestamp" : 1748715548180,
                   "id" : "st_1_6"
                 },
                 {
-                  "message" : "And when we click page 2",
-                  "timestamp" : 1746618904139,
+                  "message" : "and given we are absolutely sure to continue",
+                  "timestamp" : 1748715548180,
                   "id" : "st_1_7"
                 },
                 {
-                  "message" : "Then we jump to Page2",
-                  "timestamp" : 1746618904139,
+                  "message" : "after we select no gift aid",
+                  "timestamp" : 1748715548180,
                   "id" : "st_1_8"
                 },
                 {
-                  "message" : "And when we click page 3",
-                  "timestamp" : 1746618904139,
+                  "message" : "we can add the purchase to the basket",
+                  "timestamp" : 1748715548180,
                   "id" : "st_1_9"
                 },
                 {
-                  "message" : "Then we jump to Page3",
-                  "timestamp" : 1746618904139,
+                  "message" : "and secure checkout the basket",
+                  "timestamp" : 1748715548180,
                   "id" : "st_1_10"
+                }
+              ],
+              "testOutcome" : "succeeded"
+            },
+            {
+              "id" : "s_1_12",
+              "description" : "Happy path: secureCheckout our membership 2",
+              "startedTimestamp" : 1748715548184,
+              "finishedTimestamp" : 1748715551364,
+              "screenshots" : [
+                {
+                  "originalLocation" : "scenario_ordinal_1_12/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_12/sources/1_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_12/withNoHtml/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
+                  "index" : 1,
+                  "pageTitle" : "Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "message" : "And when we click page 4",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_1_11"
+                  "originalLocation" : "scenario_ordinal_1_12/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_12/sources/2_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_12/withNoHtml/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 2,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
                 },
                 {
-                  "message" : "Then we jump to Page4",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_1_12"
+                  "originalLocation" : "scenario_ordinal_1_12/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_12/sources/3_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_12/withNoHtml/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 3,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_12/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_12/sources/4_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_12/withNoHtml/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 4,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_12/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_12/sources/5_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_12/withNoHtml/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 5,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_12/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_12/sources/6_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_12/withNoHtml/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 6,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_12/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_12/sources/7_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_12/withNoHtml/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 7,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_12/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_12/sources/8_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_12/withNoHtml/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 8,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_12/original/9_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_12/sources/9_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_12/withNoHtml/9_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 9,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_12/original/10_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_12/sources/10_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_12/withNoHtml/10_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 10,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                }
+              ],
+              "steps" : [
+                {
+                  "message" : "given we go to https://www.tate.org.uk",
+                  "timestamp" : 1748715551364,
+                  "id" : "st_1_13"
+                },
+                {
+                  "message" : "and given we want to become a member",
+                  "timestamp" : 1748715551364,
+                  "id" : "st_1_14"
+                },
+                {
+                  "message" : "and given we are absolutely sure to continue",
+                  "timestamp" : 1748715551364,
+                  "id" : "st_1_15"
+                },
+                {
+                  "message" : "after we select no gift aid",
+                  "timestamp" : 1748715551364,
+                  "id" : "st_1_16"
+                },
+                {
+                  "message" : "we can add the purchase to the basket",
+                  "timestamp" : 1748715551364,
+                  "id" : "st_1_17"
+                },
+                {
+                  "message" : "and secure checkout the basket",
+                  "timestamp" : 1748715551364,
+                  "id" : "st_1_18"
                 }
               ],
               "testOutcome" : "succeeded"
@@ -132,125 +690,398 @@
           ]
         },
         {
-          "description" : "We can go through all the page of our app from home to page 4 - feature 2",
-          "id" : "f_2_3",
+          "description" : "we can visit https://www.tate.org.uk and become a member 2",
+          "id" : "f_1_46",
           "scenarios" : [
             {
-              "id" : "s_2_3",
-              "description" : "this is another example - we can go from home page to last page - scenario 2",
-              "startedTimestamp" : 1746618902479,
-              "finishedTimestamp" : 1746618904139,
+              "id" : "s_1_46",
+              "description" : "Happy path: secureCheckout our membership 1",
+              "startedTimestamp" : 1748715560885,
+              "finishedTimestamp" : 1748715563960,
               "screenshots" : [
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/1_ON_ENTER_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/1_ON_ENTER_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/home.html",
+                  "originalLocation" : "scenario_ordinal_1_46/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_46/sources/1_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_46/withNoHtml/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
                   "index" : 1,
-                  "pageTitle" : "Home",
+                  "pageTitle" : "Tate",
                   "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/2_ON_EXIT_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/2_ON_EXIT_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page1.html",
+                  "originalLocation" : "scenario_ordinal_1_46/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_46/sources/2_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_46/withNoHtml/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
                   "index" : 2,
-                  "pageTitle" : "Page 1",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_EXIT_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/3_ON_ENTER_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/3_ON_ENTER_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page1.html",
+                  "originalLocation" : "scenario_ordinal_1_46/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_46/sources/3_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_46/withNoHtml/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
                   "index" : 3,
-                  "pageTitle" : "Page 1",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/4_ON_EXIT_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/4_ON_EXIT_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page2.html",
+                  "originalLocation" : "scenario_ordinal_1_46/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_46/sources/4_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_46/withNoHtml/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
                   "index" : 4,
-                  "pageTitle" : "Page 2",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_EXIT_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/5_ON_ENTER_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/5_ON_ENTER_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page2.html",
+                  "originalLocation" : "scenario_ordinal_1_46/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_46/sources/5_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_46/withNoHtml/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
                   "index" : 5,
-                  "pageTitle" : "Page 2",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/6_ON_EXIT_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/6_ON_EXIT_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page3.html",
+                  "originalLocation" : "scenario_ordinal_1_46/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_46/sources/6_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_46/withNoHtml/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
                   "index" : 6,
-                  "pageTitle" : "Page 3",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_EXIT_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/7_ON_ENTER_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/7_ON_ENTER_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page3.html",
+                  "originalLocation" : "scenario_ordinal_1_46/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_46/sources/7_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_46/withNoHtml/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
                   "index" : 7,
-                  "pageTitle" : "Page 3",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/8_ON_EXIT_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/8_ON_EXIT_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page4.html",
+                  "originalLocation" : "scenario_ordinal_1_46/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_46/sources/8_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_46/withNoHtml/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
                   "index" : 8,
-                  "pageTitle" : "Page 4",
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_46/original/9_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_46/sources/9_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_46/withNoHtml/9_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 9,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_46/original/10_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_46/sources/10_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_46/withNoHtml/10_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 10,
+                  "pageTitle" : "My basket | Tate",
                   "screenshotMoment" : "ON_EXIT_PAGE"
                 }
               ],
               "steps" : [
                 {
-                  "message" : "Given we go to the home page",
-                  "timestamp" : 1746618904138,
-                  "id" : "st_2_4"
+                  "message" : "given we go to https://www.tate.org.uk",
+                  "timestamp" : 1748715563960,
+                  "id" : "st_1_47"
                 },
                 {
-                  "message" : "When we click page 1",
-                  "timestamp" : 1746618904138,
-                  "id" : "st_2_5"
+                  "message" : "and given we want to become a member",
+                  "timestamp" : 1748715563960,
+                  "id" : "st_1_48"
                 },
                 {
-                  "message" : "Then we jump to Page1",
-                  "timestamp" : 1746618904138,
-                  "id" : "st_2_6"
+                  "message" : "and given we are absolutely sure to continue",
+                  "timestamp" : 1748715563960,
+                  "id" : "st_1_49"
                 },
                 {
-                  "message" : "And when we click page 2",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_2_7"
+                  "message" : "after we select no gift aid",
+                  "timestamp" : 1748715563960,
+                  "id" : "st_1_50"
                 },
                 {
-                  "message" : "Then we jump to Page2",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_2_8"
+                  "message" : "we can add the purchase to the basket",
+                  "timestamp" : 1748715563960,
+                  "id" : "st_1_51"
                 },
                 {
-                  "message" : "And when we click page 3",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_2_9"
+                  "message" : "and secure checkout the basket",
+                  "timestamp" : 1748715563960,
+                  "id" : "st_1_52"
+                }
+              ],
+              "testOutcome" : "succeeded"
+            },
+            {
+              "id" : "s_1_54",
+              "description" : "Happy path: secureCheckout our membership 2",
+              "startedTimestamp" : 1748715563960,
+              "finishedTimestamp" : 1748715567115,
+              "screenshots" : [
+                {
+                  "originalLocation" : "scenario_ordinal_1_54/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_54/sources/1_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_54/withNoHtml/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
+                  "index" : 1,
+                  "pageTitle" : "Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "message" : "Then we jump to Page3",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_2_10"
+                  "originalLocation" : "scenario_ordinal_1_54/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_54/sources/2_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_54/withNoHtml/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 2,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
                 },
                 {
-                  "message" : "And when we click page 4",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_2_11"
+                  "originalLocation" : "scenario_ordinal_1_54/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_54/sources/3_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_54/withNoHtml/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 3,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "message" : "Then we jump to Page4",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_2_12"
+                  "originalLocation" : "scenario_ordinal_1_54/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_54/sources/4_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_54/withNoHtml/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 4,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_54/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_54/sources/5_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_54/withNoHtml/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 5,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_54/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_54/sources/6_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_54/withNoHtml/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 6,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_54/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_54/sources/7_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_54/withNoHtml/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 7,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_54/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_54/sources/8_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_54/withNoHtml/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 8,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_54/original/9_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_54/sources/9_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_54/withNoHtml/9_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 9,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_54/original/10_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_54/sources/10_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_54/withNoHtml/10_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 10,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                }
+              ],
+              "steps" : [
+                {
+                  "message" : "given we go to https://www.tate.org.uk",
+                  "timestamp" : 1748715567115,
+                  "id" : "st_1_55"
+                },
+                {
+                  "message" : "and given we want to become a member",
+                  "timestamp" : 1748715567115,
+                  "id" : "st_1_56"
+                },
+                {
+                  "message" : "and given we are absolutely sure to continue",
+                  "timestamp" : 1748715567115,
+                  "id" : "st_1_57"
+                },
+                {
+                  "message" : "after we select no gift aid",
+                  "timestamp" : 1748715567115,
+                  "id" : "st_1_58"
+                },
+                {
+                  "message" : "we can add the purchase to the basket",
+                  "timestamp" : 1748715567115,
+                  "id" : "st_1_59"
+                },
+                {
+                  "message" : "and secure checkout the basket",
+                  "timestamp" : 1748715567115,
+                  "id" : "st_1_60"
+                }
+              ],
+              "testOutcome" : "succeeded"
+            },
+            {
+              "id" : "s_1_62",
+              "description" : "Happy path: secureCheckout our membership 3",
+              "startedTimestamp" : 1748715567115,
+              "finishedTimestamp" : 1748715570348,
+              "screenshots" : [
+                {
+                  "originalLocation" : "scenario_ordinal_1_62/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_62/sources/1_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_62/withNoHtml/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
+                  "index" : 1,
+                  "pageTitle" : "Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_62/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_62/sources/2_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_62/withNoHtml/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 2,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_62/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_62/sources/3_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_62/withNoHtml/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 3,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_62/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_62/sources/4_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_62/withNoHtml/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 4,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_62/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_62/sources/5_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_62/withNoHtml/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 5,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_62/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_62/sources/6_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_62/withNoHtml/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 6,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_62/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_62/sources/7_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_62/withNoHtml/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 7,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_62/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_62/sources/8_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_62/withNoHtml/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 8,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_62/original/9_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_62/sources/9_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_62/withNoHtml/9_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 9,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_62/original/10_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_62/sources/10_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_62/withNoHtml/10_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 10,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                }
+              ],
+              "steps" : [
+                {
+                  "message" : "given we go to https://www.tate.org.uk",
+                  "timestamp" : 1748715570348,
+                  "id" : "st_1_63"
+                },
+                {
+                  "message" : "and given we want to become a member",
+                  "timestamp" : 1748715570348,
+                  "id" : "st_1_64"
+                },
+                {
+                  "message" : "and given we are absolutely sure to continue",
+                  "timestamp" : 1748715570348,
+                  "id" : "st_1_65"
+                },
+                {
+                  "message" : "after we select no gift aid",
+                  "timestamp" : 1748715570348,
+                  "id" : "st_1_66"
+                },
+                {
+                  "message" : "we can add the purchase to the basket",
+                  "timestamp" : 1748715570348,
+                  "id" : "st_1_67"
+                },
+                {
+                  "message" : "and secure checkout the basket",
+                  "timestamp" : 1748715570348,
+                  "id" : "st_1_68"
                 }
               ],
               "testOutcome" : "succeeded"
@@ -260,129 +1091,687 @@
       ]
     },
     {
-      "name" : "org.binqua.scalatest.integration.ReactAppUsagePurpose2",
-      "id" : "t_3_3",
+      "name" : "org.binqua.scalatest.tategallery.TateExample2Spec",
+      "id" : "t_1_74",
       "features" : [
         {
-          "description" : "F t_3_3 f_3_3 We can go through all the page of our app from home to page 4",
-          "id" : "f_3_3",
+          "description" : "we can visit https://www.tate.org.uk and become a member 1",
+          "id" : "f_1_74",
           "scenarios" : [
             {
-              "id" : "s_3_3",
-              "description" : "we can go from home page to last page - scenario 1",
-              "startedTimestamp" : 1746618902479,
-              "finishedTimestamp" : 1746618904139,
+              "id" : "s_1_91",
+              "description" : "Happy path: secureCheckout our membership 3",
+              "startedTimestamp" : 1748715579232,
+              "finishedTimestamp" : 1748715582681,
               "screenshots" : [
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/1_ON_ENTER_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/1_ON_ENTER_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/home.html",
+                  "originalLocation" : "scenario_ordinal_1_91/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_91/sources/1_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_91/withNoHtml/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
                   "index" : 1,
-                  "pageTitle" : "Home",
+                  "pageTitle" : "Tate",
                   "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/2_ON_EXIT_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/2_ON_EXIT_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page1.html",
+                  "originalLocation" : "scenario_ordinal_1_91/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_91/sources/2_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_91/withNoHtml/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
                   "index" : 2,
-                  "pageTitle" : "Page 1",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_EXIT_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/3_ON_ENTER_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/3_ON_ENTER_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page1.html",
+                  "originalLocation" : "scenario_ordinal_1_91/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_91/sources/3_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_91/withNoHtml/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
                   "index" : 3,
-                  "pageTitle" : "Page 1",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/4_ON_EXIT_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/4_ON_EXIT_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page2.html",
+                  "originalLocation" : "scenario_ordinal_1_91/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_91/sources/4_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_91/withNoHtml/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
                   "index" : 4,
-                  "pageTitle" : "Page 2",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_EXIT_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/5_ON_ENTER_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/5_ON_ENTER_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page2.html",
+                  "originalLocation" : "scenario_ordinal_1_91/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_91/sources/5_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_91/withNoHtml/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
                   "index" : 5,
-                  "pageTitle" : "Page 2",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/6_ON_EXIT_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/6_ON_EXIT_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page3.html",
+                  "originalLocation" : "scenario_ordinal_1_91/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_91/sources/6_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_91/withNoHtml/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
                   "index" : 6,
-                  "pageTitle" : "Page 3",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_EXIT_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/7_ON_ENTER_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/7_ON_ENTER_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page3.html",
+                  "originalLocation" : "scenario_ordinal_1_91/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_91/sources/7_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_91/withNoHtml/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
                   "index" : 7,
-                  "pageTitle" : "Page 3",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/8_ON_EXIT_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/8_ON_EXIT_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page4.html",
+                  "originalLocation" : "scenario_ordinal_1_91/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_91/sources/8_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_91/withNoHtml/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
                   "index" : 8,
-                  "pageTitle" : "Page 4",
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_91/original/9_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_91/sources/9_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_91/withNoHtml/9_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 9,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_91/original/10_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_91/sources/10_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_91/withNoHtml/10_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 10,
+                  "pageTitle" : "My basket | Tate",
                   "screenshotMoment" : "ON_EXIT_PAGE"
                 }
               ],
               "steps" : [
                 {
-                  "message" : "Given we go to the home page",
-                  "timestamp" : 1746618904138,
-                  "id" : "st_1_4"
+                  "message" : "given we go to https://www.tate.org.uk",
+                  "timestamp" : 1748715582681,
+                  "id" : "st_1_92"
                 },
                 {
-                  "message" : "When we click page 1",
-                  "timestamp" : 1746618904138,
-                  "id" : "st_1_5"
+                  "message" : "and given we want to become a member",
+                  "timestamp" : 1748715582681,
+                  "id" : "st_1_93"
                 },
                 {
-                  "message" : "Then we jump to Page1",
-                  "timestamp" : 1746618904138,
-                  "id" : "st_1_6"
+                  "message" : "and given we are absolutely sure to continue",
+                  "timestamp" : 1748715582681,
+                  "id" : "st_1_94"
                 },
                 {
-                  "message" : "And when we click page 2",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_1_7"
+                  "message" : "after we select no gift aid",
+                  "timestamp" : 1748715582681,
+                  "id" : "st_1_95"
                 },
                 {
-                  "message" : "Then we jump to Page2",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_1_8"
+                  "message" : "we can add the purchase to the basket",
+                  "timestamp" : 1748715582681,
+                  "id" : "st_1_96"
                 },
                 {
-                  "message" : "And when we click page 3",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_1_9"
+                  "message" : "and secure checkout the basket",
+                  "timestamp" : 1748715582681,
+                  "id" : "st_1_97"
+                }
+              ],
+              "testOutcome" : "succeeded"
+            },
+            {
+              "id" : "s_1_99",
+              "description" : "Happy path: secureCheckout our membership 4",
+              "startedTimestamp" : 1748715582682,
+              "finishedTimestamp" : 1748715587629,
+              "screenshots" : [
+                {
+                  "originalLocation" : "scenario_ordinal_1_99/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_99/sources/1_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_99/withNoHtml/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
+                  "index" : 1,
+                  "pageTitle" : "Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "message" : "Then we jump to Page3",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_1_10"
+                  "originalLocation" : "scenario_ordinal_1_99/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_99/sources/2_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_99/withNoHtml/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 2,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
                 },
                 {
-                  "message" : "And when we click page 4",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_1_11"
+                  "originalLocation" : "scenario_ordinal_1_99/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_99/sources/3_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_99/withNoHtml/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 3,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "message" : "Then we jump to Page4",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_1_12"
+                  "originalLocation" : "scenario_ordinal_1_99/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_99/sources/4_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_99/withNoHtml/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 4,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_99/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_99/sources/5_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_99/withNoHtml/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 5,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_99/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_99/sources/6_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_99/withNoHtml/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 6,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_99/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_99/sources/7_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_99/withNoHtml/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 7,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_99/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_99/sources/8_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_99/withNoHtml/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 8,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_99/original/9_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_99/sources/9_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_99/withNoHtml/9_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 9,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_99/original/10_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_99/sources/10_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_99/withNoHtml/10_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 10,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                }
+              ],
+              "steps" : [
+                {
+                  "message" : "given we go to https://www.tate.org.uk",
+                  "timestamp" : 1748715587629,
+                  "id" : "st_1_100"
+                },
+                {
+                  "message" : "and given we want to become a member",
+                  "timestamp" : 1748715587629,
+                  "id" : "st_1_101"
+                },
+                {
+                  "message" : "and given we are absolutely sure to continue",
+                  "timestamp" : 1748715587629,
+                  "id" : "st_1_102"
+                },
+                {
+                  "message" : "after we select no gift aid",
+                  "timestamp" : 1748715587629,
+                  "id" : "st_1_103"
+                },
+                {
+                  "message" : "we can add the purchase to the basket",
+                  "timestamp" : 1748715587629,
+                  "id" : "st_1_104"
+                },
+                {
+                  "message" : "and secure checkout the basket",
+                  "timestamp" : 1748715587629,
+                  "id" : "st_1_105"
+                }
+              ],
+              "testOutcome" : "succeeded"
+            },
+            {
+              "id" : "s_1_107",
+              "description" : "Happy path: secureCheckout our membership 5",
+              "startedTimestamp" : 1748715587629,
+              "finishedTimestamp" : 1748715591826,
+              "screenshots" : [
+                {
+                  "originalLocation" : "scenario_ordinal_1_107/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_107/sources/1_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_107/withNoHtml/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
+                  "index" : 1,
+                  "pageTitle" : "Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_107/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_107/sources/2_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_107/withNoHtml/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 2,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_107/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_107/sources/3_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_107/withNoHtml/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 3,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_107/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_107/sources/4_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_107/withNoHtml/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 4,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_107/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_107/sources/5_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_107/withNoHtml/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 5,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_107/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_107/sources/6_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_107/withNoHtml/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 6,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_107/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_107/sources/7_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_107/withNoHtml/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 7,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_107/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_107/sources/8_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_107/withNoHtml/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 8,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_107/original/9_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_107/sources/9_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_107/withNoHtml/9_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 9,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_107/original/10_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_107/sources/10_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_107/withNoHtml/10_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 10,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                }
+              ],
+              "steps" : [
+                {
+                  "message" : "given we go to https://www.tate.org.uk",
+                  "timestamp" : 1748715591826,
+                  "id" : "st_1_108"
+                },
+                {
+                  "message" : "and given we want to become a member",
+                  "timestamp" : 1748715591826,
+                  "id" : "st_1_109"
+                },
+                {
+                  "message" : "and given we are absolutely sure to continue",
+                  "timestamp" : 1748715591826,
+                  "id" : "st_1_110"
+                },
+                {
+                  "message" : "after we select no gift aid",
+                  "timestamp" : 1748715591826,
+                  "id" : "st_1_111"
+                },
+                {
+                  "message" : "we can add the purchase to the basket",
+                  "timestamp" : 1748715591826,
+                  "id" : "st_1_112"
+                },
+                {
+                  "message" : "and secure checkout the basket",
+                  "timestamp" : 1748715591826,
+                  "id" : "st_1_113"
+                }
+              ],
+              "testOutcome" : "succeeded"
+            },
+            {
+              "id" : "s_1_74",
+              "description" : "Happy path: secureCheckout our membership 1",
+              "startedTimestamp" : 1748715570461,
+              "finishedTimestamp" : 1748715575696,
+              "screenshots" : [
+                {
+                  "originalLocation" : "scenario_ordinal_1_74/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_74/sources/1_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_74/withNoHtml/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
+                  "index" : 1,
+                  "pageTitle" : "Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_74/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_74/sources/2_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_74/withNoHtml/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
+                  "index" : 2,
+                  "pageTitle" : "Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_74/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_74/sources/3_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_74/withNoHtml/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
+                  "index" : 3,
+                  "pageTitle" : "Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_74/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_74/sources/4_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_74/withNoHtml/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 4,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_74/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_74/sources/5_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_74/withNoHtml/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 5,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_74/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_74/sources/6_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_74/withNoHtml/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 6,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_74/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_74/sources/7_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_74/withNoHtml/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 7,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_74/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_74/sources/8_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_74/withNoHtml/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 8,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_74/original/9_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_74/sources/9_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_74/withNoHtml/9_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 9,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_74/original/10_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_74/sources/10_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_74/withNoHtml/10_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 10,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_74/original/11_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_74/sources/11_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_74/withNoHtml/11_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 11,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_74/original/12_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_74/sources/12_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_74/withNoHtml/12_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 12,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                }
+              ],
+              "steps" : [
+                {
+                  "message" : "given we go to https://www.tate.org.uk",
+                  "timestamp" : 1748715575696,
+                  "id" : "st_1_75"
+                },
+                {
+                  "message" : "and given we accept to proceed",
+                  "timestamp" : 1748715575696,
+                  "id" : "st_1_76"
+                },
+                {
+                  "message" : "and given we want to become a member",
+                  "timestamp" : 1748715575696,
+                  "id" : "st_1_77"
+                },
+                {
+                  "message" : "and given we are absolutely sure to continue",
+                  "timestamp" : 1748715575696,
+                  "id" : "st_1_78"
+                },
+                {
+                  "message" : "after we select no gift aid",
+                  "timestamp" : 1748715575696,
+                  "id" : "st_1_79"
+                },
+                {
+                  "message" : "we can add the purchase to the basket",
+                  "timestamp" : 1748715575696,
+                  "id" : "st_1_80"
+                },
+                {
+                  "message" : "and secure checkout the basket",
+                  "timestamp" : 1748715575696,
+                  "id" : "st_1_81"
+                }
+              ],
+              "testOutcome" : "succeeded"
+            },
+            {
+              "id" : "s_1_83",
+              "description" : "Happy path: secureCheckout our membership 2",
+              "startedTimestamp" : 1748715575696,
+              "finishedTimestamp" : 1748715579232,
+              "screenshots" : [
+                {
+                  "originalLocation" : "scenario_ordinal_1_83/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_83/sources/1_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_83/withNoHtml/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
+                  "index" : 1,
+                  "pageTitle" : "Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_83/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_83/sources/2_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_83/withNoHtml/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 2,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_83/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_83/sources/3_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_83/withNoHtml/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 3,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_83/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_83/sources/4_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_83/withNoHtml/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 4,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_83/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_83/sources/5_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_83/withNoHtml/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 5,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_83/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_83/sources/6_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_83/withNoHtml/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 6,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_83/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_83/sources/7_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_83/withNoHtml/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 7,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_83/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_83/sources/8_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_83/withNoHtml/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 8,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_83/original/9_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_83/sources/9_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_83/withNoHtml/9_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 9,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_83/original/10_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_83/sources/10_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_83/withNoHtml/10_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 10,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                }
+              ],
+              "steps" : [
+                {
+                  "message" : "given we go to https://www.tate.org.uk",
+                  "timestamp" : 1748715579232,
+                  "id" : "st_1_84"
+                },
+                {
+                  "message" : "and given we want to become a member",
+                  "timestamp" : 1748715579232,
+                  "id" : "st_1_85"
+                },
+                {
+                  "message" : "and given we are absolutely sure to continue",
+                  "timestamp" : 1748715579232,
+                  "id" : "st_1_86"
+                },
+                {
+                  "message" : "after we select no gift aid",
+                  "timestamp" : 1748715579232,
+                  "id" : "st_1_87"
+                },
+                {
+                  "message" : "we can add the purchase to the basket",
+                  "timestamp" : 1748715579232,
+                  "id" : "st_1_88"
+                },
+                {
+                  "message" : "and secure checkout the basket",
+                  "timestamp" : 1748715579232,
+                  "id" : "st_1_89"
                 }
               ],
               "testOutcome" : "succeeded"
@@ -390,125 +1779,398 @@
           ]
         },
         {
-          "description" : "F t_3_3  f_4_3We can go through all the page of our app from home to page 4 - feature 2",
-          "id" : "f_4_3",
+          "description" : "we can visit https://www.tate.org.uk and become a member 2",
+          "id" : "f_1_117",
           "scenarios" : [
             {
-              "id" : "s_5_3",
-              "description" : "this is another example - we can go from home page to last page - scenario 2",
-              "startedTimestamp" : 1746618902479,
-              "finishedTimestamp" : 1746618904139,
+              "id" : "s_1_117",
+              "description" : "Happy path: secureCheckout our membership 1",
+              "startedTimestamp" : 1748715591827,
+              "finishedTimestamp" : 1748715596112,
               "screenshots" : [
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/1_ON_ENTER_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/1_ON_ENTER_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/home.html",
+                  "originalLocation" : "scenario_ordinal_1_117/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_117/sources/1_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_117/withNoHtml/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
                   "index" : 1,
-                  "pageTitle" : "Home",
+                  "pageTitle" : "Tate",
                   "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/2_ON_EXIT_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/2_ON_EXIT_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page1.html",
+                  "originalLocation" : "scenario_ordinal_1_117/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_117/sources/2_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_117/withNoHtml/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
                   "index" : 2,
-                  "pageTitle" : "Page 1",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_EXIT_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/3_ON_ENTER_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/3_ON_ENTER_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page1.html",
+                  "originalLocation" : "scenario_ordinal_1_117/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_117/sources/3_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_117/withNoHtml/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
                   "index" : 3,
-                  "pageTitle" : "Page 1",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/4_ON_EXIT_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/4_ON_EXIT_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page2.html",
+                  "originalLocation" : "scenario_ordinal_1_117/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_117/sources/4_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_117/withNoHtml/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
                   "index" : 4,
-                  "pageTitle" : "Page 2",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_EXIT_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/5_ON_ENTER_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/5_ON_ENTER_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page2.html",
+                  "originalLocation" : "scenario_ordinal_1_117/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_117/sources/5_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_117/withNoHtml/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
                   "index" : 5,
-                  "pageTitle" : "Page 2",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/6_ON_EXIT_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/6_ON_EXIT_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page3.html",
+                  "originalLocation" : "scenario_ordinal_1_117/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_117/sources/6_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_117/withNoHtml/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
                   "index" : 6,
-                  "pageTitle" : "Page 3",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_EXIT_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/7_ON_ENTER_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/7_ON_ENTER_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page3.html",
+                  "originalLocation" : "scenario_ordinal_1_117/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_117/sources/7_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_117/withNoHtml/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
                   "index" : 7,
-                  "pageTitle" : "Page 3",
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
                   "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "originalLocation" : "scenario_ordinal_1_3/original/8_ON_EXIT_PAGE.png",
-                  "sourceLocation" : "scenario_ordinal_1_3/sources/8_ON_EXIT_PAGE.txt",
-                  "pageUrl" : "http://localhost:8081/page4.html",
+                  "originalLocation" : "scenario_ordinal_1_117/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_117/sources/8_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_117/withNoHtml/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
                   "index" : 8,
-                  "pageTitle" : "Page 4",
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_117/original/9_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_117/sources/9_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_117/withNoHtml/9_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 9,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_117/original/10_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_117/sources/10_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_117/withNoHtml/10_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 10,
+                  "pageTitle" : "My basket | Tate",
                   "screenshotMoment" : "ON_EXIT_PAGE"
                 }
               ],
               "steps" : [
                 {
-                  "message" : "Given we go to the home page",
-                  "timestamp" : 1746618904138,
-                  "id" : "st_2_4"
+                  "message" : "given we go to https://www.tate.org.uk",
+                  "timestamp" : 1748715596112,
+                  "id" : "st_1_118"
                 },
                 {
-                  "message" : "When we click page 1",
-                  "timestamp" : 1746618904138,
-                  "id" : "st_2_5"
+                  "message" : "and given we want to become a member",
+                  "timestamp" : 1748715596112,
+                  "id" : "st_1_119"
                 },
                 {
-                  "message" : "Then we jump to Page1",
-                  "timestamp" : 1746618904138,
-                  "id" : "st_2_6"
+                  "message" : "and given we are absolutely sure to continue",
+                  "timestamp" : 1748715596112,
+                  "id" : "st_1_120"
                 },
                 {
-                  "message" : "And when we click page 2",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_2_7"
+                  "message" : "after we select no gift aid",
+                  "timestamp" : 1748715596112,
+                  "id" : "st_1_121"
                 },
                 {
-                  "message" : "Then we jump to Page2",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_2_8"
+                  "message" : "we can add the purchase to the basket",
+                  "timestamp" : 1748715596112,
+                  "id" : "st_1_122"
                 },
                 {
-                  "message" : "And when we click page 3",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_2_9"
+                  "message" : "and secure checkout the basket",
+                  "timestamp" : 1748715596112,
+                  "id" : "st_1_123"
+                }
+              ],
+              "testOutcome" : "succeeded"
+            },
+            {
+              "id" : "s_1_125",
+              "description" : "Happy path: secureCheckout our membership 2",
+              "startedTimestamp" : 1748715596112,
+              "finishedTimestamp" : 1748715599576,
+              "screenshots" : [
+                {
+                  "originalLocation" : "scenario_ordinal_1_125/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_125/sources/1_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_125/withNoHtml/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
+                  "index" : 1,
+                  "pageTitle" : "Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "message" : "Then we jump to Page3",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_2_10"
+                  "originalLocation" : "scenario_ordinal_1_125/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_125/sources/2_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_125/withNoHtml/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 2,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
                 },
                 {
-                  "message" : "And when we click page 4",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_2_11"
+                  "originalLocation" : "scenario_ordinal_1_125/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_125/sources/3_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_125/withNoHtml/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 3,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
                 },
                 {
-                  "message" : "Then we jump to Page4",
-                  "timestamp" : 1746618904139,
-                  "id" : "st_2_12"
+                  "originalLocation" : "scenario_ordinal_1_125/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_125/sources/4_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_125/withNoHtml/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 4,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_125/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_125/sources/5_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_125/withNoHtml/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 5,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_125/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_125/sources/6_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_125/withNoHtml/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 6,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_125/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_125/sources/7_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_125/withNoHtml/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 7,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_125/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_125/sources/8_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_125/withNoHtml/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 8,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_125/original/9_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_125/sources/9_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_125/withNoHtml/9_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 9,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_125/original/10_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_125/sources/10_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_125/withNoHtml/10_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 10,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                }
+              ],
+              "steps" : [
+                {
+                  "message" : "given we go to https://www.tate.org.uk",
+                  "timestamp" : 1748715599576,
+                  "id" : "st_1_126"
+                },
+                {
+                  "message" : "and given we want to become a member",
+                  "timestamp" : 1748715599576,
+                  "id" : "st_1_127"
+                },
+                {
+                  "message" : "and given we are absolutely sure to continue",
+                  "timestamp" : 1748715599576,
+                  "id" : "st_1_128"
+                },
+                {
+                  "message" : "after we select no gift aid",
+                  "timestamp" : 1748715599576,
+                  "id" : "st_1_129"
+                },
+                {
+                  "message" : "we can add the purchase to the basket",
+                  "timestamp" : 1748715599576,
+                  "id" : "st_1_130"
+                },
+                {
+                  "message" : "and secure checkout the basket",
+                  "timestamp" : 1748715599576,
+                  "id" : "st_1_131"
+                }
+              ],
+              "testOutcome" : "succeeded"
+            },
+            {
+              "id" : "s_1_133",
+              "description" : "Happy path: secureCheckout our membership 3",
+              "startedTimestamp" : 1748715599576,
+              "finishedTimestamp" : 1748715603064,
+              "screenshots" : [
+                {
+                  "originalLocation" : "scenario_ordinal_1_133/original/1_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_133/sources/1_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_133/withNoHtml/1_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://www.tate.org.uk/",
+                  "index" : 1,
+                  "pageTitle" : "Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_133/original/2_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_133/sources/2_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_133/withNoHtml/2_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 2,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_133/original/3_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_133/sources/3_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_133/withNoHtml/3_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership",
+                  "index" : 3,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_133/original/4_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_133/sources/4_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_133/withNoHtml/4_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 4,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_133/original/5_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_133/sources/5_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_133/withNoHtml/5_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 5,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_133/original/6_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_133/sources/6_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_133/withNoHtml/6_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 6,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_133/original/7_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_133/sources/7_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_133/withNoHtml/7_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/membership/giftaid?pid=membership",
+                  "index" : 7,
+                  "pageTitle" : "Purchase Membership - Tate Members | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_133/original/8_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_133/sources/8_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_133/withNoHtml/8_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 8,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_133/original/9_ON_ENTER_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_133/sources/9_ON_ENTER_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_133/withNoHtml/9_ON_ENTER_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 9,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_ENTER_PAGE"
+                },
+                {
+                  "originalLocation" : "scenario_ordinal_1_133/original/10_ON_EXIT_PAGE.png",
+                  "sourceLocation" : "scenario_ordinal_1_133/sources/10_ON_EXIT_PAGE.txt",
+                  "sourceWithNoHtmlLocation" : "scenario_ordinal_1_133/withNoHtml/10_ON_EXIT_PAGE.txt",
+                  "pageUrl" : "https://shop.tate.org.uk/basket?baskettype=membership",
+                  "index" : 10,
+                  "pageTitle" : "My basket | Tate",
+                  "screenshotMoment" : "ON_EXIT_PAGE"
+                }
+              ],
+              "steps" : [
+                {
+                  "message" : "given we go to https://www.tate.org.uk",
+                  "timestamp" : 1748715603064,
+                  "id" : "st_1_134"
+                },
+                {
+                  "message" : "and given we want to become a member",
+                  "timestamp" : 1748715603064,
+                  "id" : "st_1_135"
+                },
+                {
+                  "message" : "and given we are absolutely sure to continue",
+                  "timestamp" : 1748715603064,
+                  "id" : "st_1_136"
+                },
+                {
+                  "message" : "after we select no gift aid",
+                  "timestamp" : 1748715603064,
+                  "id" : "st_1_137"
+                },
+                {
+                  "message" : "we can add the purchase to the basket",
+                  "timestamp" : 1748715603064,
+                  "id" : "st_1_138"
+                },
+                {
+                  "message" : "and secure checkout the basket",
+                  "timestamp" : 1748715603064,
+                  "id" : "st_1_139"
                 }
               ],
               "testOutcome" : "succeeded"

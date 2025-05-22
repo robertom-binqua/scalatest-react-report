@@ -2,12 +2,13 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import React from "react";
 import MenuFeatureItem from "./MenuFeatureItem";
 import {FeatureVisibility, TestsVisibility, TestVisibility} from "../../testMapBuilder";
-import {FeatureReport, ScenarioReport, TestReport, TestSelection} from "../../model";
+import {FeatureReport, SearchResultTestSelection, TestReport} from "../../model";
+
 export interface MenuTestItemProps {
     testReport: TestReport;
     index: number;
     testsVisibility: TestsVisibility;
-    changeTestSelection: (i: TestSelection) => void
+    changeTestSelection: (i: SearchResultTestSelection) => void
 }
 
 function getFeatureVisibility(featureVisibility: Map<string, FeatureVisibility>, feature: FeatureReport): FeatureVisibility {

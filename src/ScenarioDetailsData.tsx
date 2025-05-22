@@ -2,11 +2,11 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import React from "react";
 import ScreenshotsCarousel from "./ScreenshotsCarousel";
 import {ScenarioReport} from "./model";
-import * as O from 'fp-ts/Option'
 
 export type ScenarioDetailsData = {
-        scenarioReport: ScenarioReport,
-        screenshotsLocationPrefix: string
+    scenarioReport: ScenarioReport,
+    screenshotsLocationPrefix: string
+    screenshotSelected: Number | undefined
 }
 
 export interface ScenarioDetailsProps {
@@ -28,7 +28,9 @@ const ScenarioDetails: (scenarioDetailsProps: ScenarioDetailsProps) => React.JSX
                     {steps}
                 </ul>
                 <ScreenshotsCarousel scenarioReport={scenarioDetails.scenarioReport}
-                                     screenshotsLocationPrefix={scenarioDetails.screenshotsLocationPrefix}/>
+                                     screenshotsLocationPrefix={scenarioDetails.screenshotsLocationPrefix}
+                                     maybeAScreenshotIndex={scenarioDetails.screenshotSelected}
+                />
             </>
 
         )
