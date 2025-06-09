@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+## Table of Contents
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [Motivation](#motivation)
+
+## Motivation
+
+This is the UI part of a custom ScalaTest report for [FeatureSpec](https://www.scalatest.org/user_guide/selecting_a_style).
+Please see the [report generator](https://github.com/robertom-binqua/scalatest-featurespecs-screenshots-reporter) to find out more 
 
 ## Available Scripts
 
