@@ -3,9 +3,12 @@ import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
 import {SearchResultTestSelection, TestsReportResult} from "../../model";
 import {SearchLauncherUtils} from "./SearchLauncherUtils";
-import SearchResult from "./SearchResult";
-import {Col, Form, Row, Stack} from "react-bootstrap";
+import {Col, Container, Row} from "react-bootstrap";
+import SearchByTitleUrl from "./SearchByTitleUrl";
+import lunr from "lunr";
 import ScreenshotCoordinates = SearchLauncherUtils.ScreenshotCoordinates;
+import SearchByFreeBodyText from "./SearchByFreeBodyText";
+import {IndexSearch} from "../../IndexSearch";
 
 export interface ScreenshotByTitleAndUrl {
     id: number,
@@ -18,90 +21,96 @@ export interface SearchLauncherProps {
     changeTestSelection: (testSelection: SearchResultTestSelection) => void
     testsReportResult: TestsReportResult
     screenshotsByTitleAndUrl: ScreenshotByTitleAndUrl[]
+    screenshotCoordinates: ScreenshotCoordinates[]
+    indexSearch: IndexSearch
+}
+
+enum SearchType {
+    BY_TITLE_AND_URL,
+    FREE_TEXT_SEARCH,
+    NONE
 }
 
 function SearchLauncher({
                             changeTestSelection,
                             testsReportResult,
-                            screenshotsByTitleAndUrl
+                            screenshotsByTitleAndUrl,
+                            screenshotCoordinates,
+                            indexSearch,
                         }: SearchLauncherProps): JSX.Element {
+
     const titleUrlRef: React.RefObject<HTMLInputElement | null> = useRef<HTMLInputElement | null>(null);
+    const [searchContentForm, setSearchContentForm] = useState(<></>);
     const [show, setShow] = useState(false);
-    const [screenshotByTitleAndUrl, setScreenshotByTitleAndUrl] = useState<ScreenshotByTitleAndUrl | null>(null);
 
     const handleClose = () => {
         setShow(false);
-        setScreenshotByTitleAndUrl(null)
+        setSearchContentForm(<></>)
     }
 
-    const handleClear = () => {
-        if (titleUrlRef.current) {
-            titleUrlRef.current.value = ""
-            setScreenshotByTitleAndUrl(null)
+    const handleSearchType = (searchType: SearchType) => {
+        switch (searchType) {
+            case SearchType.NONE:
+                setSearchContentForm(<></>)
+                break;
+            case SearchType.FREE_TEXT_SEARCH:
+                setSearchContentForm(<SearchByFreeBodyText
+                    changeTestSelection={changeTestSelection}
+                    testsReportResult={testsReportResult}
+                    allScreenshotCoordinates={screenshotCoordinates}
+                    indexSearch={indexSearch}
+                    parentCloseHandler={handleClose}
+                />);
+                break;
+            case SearchType.BY_TITLE_AND_URL:
+                setSearchContentForm(<SearchByTitleUrl
+                    changeTestSelection={changeTestSelection}
+                    testsReportResult={testsReportResult}
+                    screenshotsByTitleAndUrl={screenshotsByTitleAndUrl}
+                    parentCloseHandler={handleClose}
+                />);
+                break;
         }
-    }
 
-
-    const handleSearch = () => {
-        if (titleUrlRef.current) {
-            setScreenshotByTitleAndUrl(SearchLauncherUtils.findScreenshotByTitleAndUrl(screenshotsByTitleAndUrl, titleUrlRef.current.value))
-        }
-    }
+    };
 
     const handleShow = () => setShow(true);
 
     return (
         <>
-            <Button variant="primary" onClick={handleShow}>
-                Search Test
-            </Button>
-
+            <Button variant="primary" onClick={handleShow}> Search Test </Button>
             <Modal show={show} onHide={handleClose} className={"modal-xl"}>
                 <Modal.Header closeButton>
                     <Modal.Title>Search Test</Modal.Title>
                 </Modal.Header>
                 <Modal.Body>
-                    <Stack gap={2}>
-                        <div className="p-1">
-                            <Form>
-                                <Row className="mb-3">
-                                    <Form.Group as={Col} controlId="formGridEmail">
-                                        <Form.Label>Title - Url</Form.Label>
-                                        <Form.Control ref={titleUrlRef}  type="text" placeholder="Enter Title - Url" list="list-url"/>
-                                        <datalist id="list-url">
-                                            {
-                                                screenshotsByTitleAndUrl.map((value: ScreenshotByTitleAndUrl, index) =>
-                                                    <option
-                                                        key={index}
-                                                        id={value.id.toString()}>{SearchLauncherUtils.dataListVisibleString(value)}</option>)
-                                            }
-                                        </datalist>
-                                    </Form.Group>
-                                </Row>
-
-                                <Button variant="primary" onClick={handleSearch}> Search Test </Button>
-                            </Form>
-                        </div>
-                        <div className="p-1">
-                            <SearchResult changeTestSelection={changeTestSelection}
-                                          screenshotSelected={screenshotByTitleAndUrl}
-                                          testsReportResult={testsReportResult}
-                                          handleParentClose={handleClose}
-                            />
-                        </div>
-                    </Stack>
+                    <Container>
+                        <Row>
+                            <Col xl="auto"><Button variant="primary"
+                                                   onClick={() => handleSearchType(SearchType.BY_TITLE_AND_URL)}> By
+                                title
+                                /
+                                url</Button></Col>
+                            <Col xl="auto"> <Button variant="primary"
+                                                    onClick={() => handleSearchType(SearchType.FREE_TEXT_SEARCH)}> By
+                                free
+                                text</Button></Col>
+                            <Col></Col>
+                        </Row>
+                        <Row>
+                            {
+                                searchContentForm
+                            }
+                        </Row>
+                    </Container>
                 </Modal.Body>
                 <Modal.Footer>
-                    <Button variant="secondary" onClick={handleClose}>
-                        Close
-                    </Button>
-                    <Button variant="secondary" onClick={handleClear}>
-                        Clear
-                    </Button>
+                    <Button variant="secondary" onClick={handleClose}> Close </Button>
                 </Modal.Footer>
             </Modal>
         </>
     );
 }
+
 
 export default SearchLauncher;

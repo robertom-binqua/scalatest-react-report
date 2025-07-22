@@ -14,7 +14,7 @@ import {ScenarioReport} from "./model";
 export interface ScreenshotsCarouselProps {
     scenarioReport: ScenarioReport,
     screenshotsLocationPrefix: string,
-    maybeAScreenshotIndex: Number | undefined
+    maybeAScreenshotIndex: string | undefined
 }
 
 const ScreenshotsCarousel = ({
@@ -25,10 +25,11 @@ const ScreenshotsCarousel = ({
 
     const splideRef: React.RefObject<null | Splide> = useRef(null);
 
-    const goToSlide: (index: Number | undefined) => void = (index) => {
-        if (splideRef && splideRef.current && splideRef.current.splide && index) {
-            console.log(index.valueOf() - 1)
-            splideRef.current.splide.go(index.valueOf() - 1);
+    const goToSlide: (id: String | undefined) => void = (id) => {
+        if (splideRef && splideRef.current && splideRef.current.splide && id) {
+            const newId = parseInt(id.replace("ss_",""))
+            console.log(newId.valueOf() - 1)
+            splideRef.current.splide.go(newId.valueOf() - 1);
         }
     }
 
@@ -36,10 +37,10 @@ const ScreenshotsCarousel = ({
 
     let slides = scenarioReport.screenshots
         .map(s => {
-                let index = "screenshot: " + s.index + " of " + scenarioReport.screenshots.length
-                const selection: string = s.index === maybeAScreenshotIndex ? "border border-primary" : ""
+                let index = "screenshot: " + s.id + " of " + scenarioReport.screenshots.length
+                const selection: string = s.id === maybeAScreenshotIndex ? "border border-primary" : ""
                 const className: string = "d-flex flex-column m-0 " + selection
-                return (<SplideSlide key={s.index}>
+                return (<SplideSlide key={s.id}>
                     <div className={className}>
                         <div className="scroll-container">
                             <img className="p-1 screenshot-img"

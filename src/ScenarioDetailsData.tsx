@@ -6,7 +6,7 @@ import {ScenarioReport} from "./model";
 export type ScenarioDetailsData = {
     scenarioReport: ScenarioReport,
     screenshotsLocationPrefix: string
-    screenshotSelected: Number | undefined
+    screenshotSelected: string | undefined
 }
 
 export interface ScenarioDetailsProps {

@@ -106,7 +106,7 @@ test('extractScenarioDetails extracts the correct details', () => {
                 "originalLocation": "scenario_ordinal_1_3/original/1_ON_ENTER_PAGE.png",
                 "sourceLocation": "scenario_ordinal_1_3/sources/1_ON_ENTER_PAGE.txt",
                 "pageUrl": "http://localhost:8081/home.html",
-                "index": 1,
+                "id": "ss_1",
                 "pageTitle": "Home",
                 "screenshotMoment": "ON_ENTER_PAGE"
             }

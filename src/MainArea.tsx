@@ -46,22 +46,24 @@ function MainArea({testsReportResult, testsVisibility, changeTestSelection, scen
     }, [resize, stopResizing]);
 
     return (
-        <div className="app-container">
-            <div
-                ref={sidebarRef}
-                className="app-sidebar"
-                style={{width: sidebarWidth}}
-                onMouseDown={(e: React.MouseEvent<HTMLDivElement>) => e.preventDefault()}
-            >
-                <div className="app-sidebar-content">
-                    <TestsNavBar testsReportResult={testsReportResult}
-                                 testsVisibility={testsVisibility}
-                                 changeTestSelection={changeTestSelection}/>
+        <div>
+            <div className="app-container">
+                <div
+                    ref={sidebarRef}
+                    className="app-sidebar"
+                    style={{width: sidebarWidth}}
+                    onMouseDown={(e: React.MouseEvent<HTMLDivElement>) => e.preventDefault()}
+                >
+                    <div className="app-sidebar-content">
+                        <TestsNavBar testsReportResult={testsReportResult}
+                                     testsVisibility={testsVisibility}
+                                     changeTestSelection={changeTestSelection}/>
+                    </div>
+                    <div className="app-sidebar-resizer" onMouseDown={startResizing}/>
                 </div>
-                <div className="app-sidebar-resizer" onMouseDown={startResizing}/>
-            </div>
-            <div className="app-frame">
-                <ScenarioDetails scenarioDetails={scenarioDetailsProps.scenarioDetails}/>
+                <div className="app-frame">
+                    <ScenarioDetails scenarioDetails={scenarioDetailsProps.scenarioDetails} />
+                </div>
             </div>
         </div>
     );

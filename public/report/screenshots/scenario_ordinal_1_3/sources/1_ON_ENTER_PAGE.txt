@@ -10,7 +10,7 @@
 
     
 
-        <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-Q4CTQC82D1&amp;cx=c&amp;gtm=45He55s2v6399797za200&amp;tag_exp=101509157~103103155~103103157~103116026~103200004~103233427~103252644~103252646~103351866~103351868~104481633~104481635~104559073~104559075~104612245~104612247"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=DC-13274131&amp;cx=c&amp;gtm=45He55s2v6399797za200&amp;tag_exp=101509157~103103155~103103157~103116026~103200004~103233427~103252644~103252646~103351866~103351868~104481633~104481635~104559073~104559075~104612245~104612247"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-1012661956&amp;cx=c&amp;gtm=45He55s2v6399797za200&amp;tag_exp=101509157~103103155~103103157~103116026~103200004~103233427~103252644~103252646~103351866~103351868~104481633~104481635~104559073~104559075~104612245~104612247"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-16456287227&amp;cx=c&amp;gtm=45He55s2v6399797za200&amp;tag_exp=101509157~103103155~103103157~103116026~103200004~103233427~103252644~103252646~103351866~103351868~104481633~104481635~104559073~104559075~104612245~104612247"></script><script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/jt8Oh2-Ue1u7nEbJQUIdocyd/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-UPrQVGoaAH4LSrUOE7fPg+sY6k0d8riR1MCeHMs2PytQcLpLR6pkOj7gsJu5KWvT"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WQPJ9H"></script><script type="text/javascript" src="https://try.abtasty.com/03d869a33f572dd77e62594449ebd8cb.js"></script><link charset="utf-8" rel="preload" as="script" href="https://try.abtasty.com/shared/me.e0c994d88b13c5a52123.js">
+        <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-Q4CTQC82D1&amp;cx=c&amp;gtm=45He57g1v6399797za200&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=DC-13274131&amp;cx=c&amp;gtm=45He57g1v6399797za200&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-1012661956&amp;cx=c&amp;gtm=45He57g1v6399797za200&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-16456287227&amp;cx=c&amp;gtm=45He57g1v6399797za200&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211"></script><script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/3jpV4E_UA9gZWYy11LtggjoU/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-8BePxg6Wh2fV0vTELhV40WIIkZzA8q6AbKptdf+cRazn9sNHQQTRJjigOcFB/dqA"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WQPJ9H"></script><script type="text/javascript" src="https://try.abtasty.com/03d869a33f572dd77e62594449ebd8cb.js"></script><link charset="utf-8" rel="preload" as="script" href="https://try.abtasty.com/shared/me.95d8fc460d9560f0e30e.js">
 
         <!-- OneTrust Cookies Consent Notice start for tate.org.uk -->
         <script src="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="0195f600-ac66-7b59-b68d-e450bed14b23"></script>
@@ -37,6 +37,10 @@
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','GTM-WQPJ9H');</script>
         <!-- End Google Tag Manager -->
+    
+
+    
+    <meta name="google-site-verification" content="V_Uq73Vz3MKOTkE_pQlYIw_J8WEe0cppBgFWepKV55Y">
     
 
     
@@ -87,7 +91,7 @@
     <link rel="canonical" href="https://www.tate.org.uk/">
 
     
-    <link type="text/css" rel="stylesheet" href="/static/css/styles.0e6acc4c4422.css" media="all">
+    <link type="text/css" rel="stylesheet" href="/static/css/styles.1f704f7f268b.css" media="all">
     
 
 
@@ -127,7 +131,7 @@
         'datePublished': '2016-05-06T16:17:43+01:00'
         
         ,
-        'dateUpdated': '2025-05-19T10:12:10.248522+01:00'
+        'dateUpdated': '2025-07-14T08:55:49.395554+01:00'
         
     };
     
@@ -347,7 +351,7 @@
                             background-color: #F8F8F8;
                         }
                     
-            .ot-floating-button__front{background-image:url('https://cdn-ukwest.onetrust.com/logos/static/ot_persistent_cookie_icon.png')}</style><script type="text/javascript" src="https://assets.queue-it.net/tate/integrationconfig/javascript/queueclientConfig.js?versionTimestamp=20250531191903"></script></head>
+            .ot-floating-button__front{background-image:url('https://cdn-ukwest.onetrust.com/logos/static/ot_persistent_cookie_icon.png')}</style><script type="text/javascript" src="https://assets.queue-it.net/tate/integrationconfig/javascript/queueclientConfig.js?versionTimestamp=20250720191902"></script></head>
 <body class="type--home_page   type--tatecool_page theme--default js">
 
     <!-- Google Tag Manager -->
@@ -538,7 +542,7 @@
                                     
                                     <li class="site-menu__item site-menu__item--card">
                                         <a href="/visit/tate-liverpool" tabindex="0">
-                                            <img src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Liverpool__RIBA_North_banner__Tate_Bria.max-500x500.png" alt="Tate Liverpool + RIBA North">
+                                            <img src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Liverpool__RIBA_North_banner__Tate_Bria.max-500x500.jpg" alt="Tate Liverpool + RIBA North">
                                             <div class="site-menu__item--card-content">
                                                 <span class="card__title">Tate Liverpool + RIBA North</span>
                                                 <span class="card__hours current-open-times" data-open-times="mon/10:00/17:50,tue/10:00/17:50,wed/10:00/17:50,thu/10:00/17:50,fri/10:00/17:50,sat/10:00/17:50,sun/10:00/17:50">Open today 10.00–17.50</span>
@@ -661,24 +665,24 @@
 
 <div class="container banner-container banner-container--full-width">
 
-    <div class="container__inner" style="background-color: #0033a1">
+    <div class="container__inner" style="background-color: #f5a66e">
 
-        <div class="banner banner--grid banner--text-right banner--text-white">
+        <div class="banner banner--grid banner--text-right">
 
             <div class="banner__text">
                 
 
 
-    <p class="banner__sub-heading">Tate St Ives</p>
+    <p class="banner__sub-heading">Tate Modern</p>
 
 
 
-    <h1 class="banner__heading">Liliane Lijn: Arise Alive</h1>
+    <h1 class="banner__heading">Emily Kam Kngwarray</h1>
 
 
 
     <div class="banner__body">
-        <p>Discover art that sees the world in terms of light and energy</p>
+        <p>Discover the monumental art of renowned Australian artist Emily Kam Kngwarray</p>
     </div>
 
 
@@ -686,7 +690,7 @@
     <div class="banner__ctas btn-row">
         
             
-    <a href="/whats-on/tate-st-ives/liliane-lijn-arise-alive" class="btn btn--type__transparent">
+    <a href="/whats-on/tate-modern/emily-kam-kngwarray" class="btn btn--type__transparent">
         <i class="btn__icon icon--arrow-right"></i>
         <span class="btn__text">Book now</span>
     </a>
@@ -713,21 +717,17 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Liliane_Lijn_Banner_v1.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Liliane_Lijn_Banner_v1.width-420.jpg 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Liliane_Lijn_Banner_v1.width-680.jpg 680w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Liliane_Lijn_Banner_v1.width-840.jpg 840w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Liliane_Lijn_Banner_v1.width-1440.jpg 1440w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Liliane_Lijn_Banner_v1.width-2560.jpg 2560w,
+            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Emily_Kam_Kngwarray_Banner_v1_dbChHod.width-420.jpg 420w,
+            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Emily_Kam_Kngwarray_Banner_v1_dbChHod.width-840.jpg 840w,
+            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Emily_Kam_Kngwarray_Banner_v1_dbChHod.width-1440.jpg 1428w,
+            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Emily_Kam_Kngwarray_Banner_v1_dbChHod.width-2560.jpg 1428w,
             " sizes="
-            (max-width: 340px) 340px,
             (max-width: 420px) 420px,
-            (max-width: 680px) 680px,
             (max-width: 840px) 840px,
             (max-width: 1440px) 1440px,
             2560px,
             ">
-        <img alt="" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Liliane_Lijn_Banner_v1.width-340.jpg" loading="lazy" width="340" height="236" style="object-position:  50% 50%;">
+        <img alt="" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Emily_Kam_Kngwarray_Banner_v1_dbChHod.width-420.jpg" loading="lazy" width="420" height="396" style="object-position:  50% 50%;">
     </picture>
 
     
@@ -765,6 +765,8 @@
 <div class="block-heading"><div class="container">
     <div class="container__inner">
         <h2 id="exhibitions" class="section__title">Exhibitions</h2>
+
+
     </div>
 </div>
 </div>
@@ -824,6 +826,151 @@
         
         
         
+        <a href="https://www.tate.org.uk/whats-on/tate-modern/the-genesis-exhibition-do-ho-suh" aria-label="The Genesis Exhibition: Do Ho Suh: Walk the House" data-gtm-name="card_link_title" data-gtm-destination="" tabindex="0">
+        
+        
+            
+
+                <div class="card-media card-media--image">
+                    <div class="card-media__inner responsive-container">
+                        
+                            
+                                
+                                
+                                    
+
+
+    
+    <picture>
+        <source srcset="
+            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Do_Ho_Suh_V04_1.width-420.jpg 420w,
+            " sizes="
+            420px,
+            ">
+        <img alt="A figure walking through a colourful architectural tunnel." src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Do_Ho_Suh_V04_1.width-420.jpg" loading="lazy" width="420" height="314" data-current-size="0-0" data-visible="">
+    </picture>
+
+    
+
+    
+
+
+
+                                
+                            
+                        
+                    </div>
+
+                    
+
+                </div>
+
+            
+
+            
+
+
+            
+                <div class="card-content">
+
+                    <div class="card-content__inner">
+
+                    
+
+		
+			<div class="card-tags">
+					
+							<span>Exhibition</span>
+					
+					
+							<span class="tag-status tag-status_extended">extended</span>
+					
+					
+			</div>
+    
+
+	
+
+                    
+			<h2 class="card__title">				
+					
+					<span class="card__title--maintitle card__title--event">The Genesis Exhibition: Do Ho Suh: Walk the House</span>
+					
+			</h2>
+	
+
+
+                    
+                        
+                    
+
+                    
+			<div class="card__description">
+				
+				<p></p><p data-block-key="ekgi6">Enter the captivating world of leading contemporary artist Do Ho Suh</p><p></p>
+	    </div>
+	
+
+                    
+                        
+                    
+
+                    </div>
+                    
+		<div class="card-icons">
+			<div class="event-info event-info__venue">
+					<div class="event-icon">
+							<i class="icon--location"></i>
+					</div>
+					<span>Tate Modern</span>
+			</div>
+
+			<div class="event-info event-info__date">
+					<div class="event-icon">
+							<i class="icon--calendar"></i>
+					</div>
+					<span>Until 26 Oct 2025</span>
+			</div>
+			<div class="event-info event-info__price">
+					<!--
+					<div class="event-icon">    
+							<i class="icon--ticket"></i>
+					</div>
+					<span> £20 / Free for Members </span>
+					-->
+			</div>                    
+		</div>
+	
+                </div>
+
+            
+        
+        </a>
+        
+        
+    </div>
+    
+    
+        
+    
+    
+    
+    
+
+
+
+</li><li class="card card--event   slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 268px;" tabindex="0">
+
+
+
+    
+    
+    <div class="card__inner ">
+        
+        
+        
+        
+        
         <a href="https://www.tate.org.uk/whats-on/tate-modern/leigh-bowery" aria-label="Leigh Bowery!" data-gtm-name="card_link_title" data-gtm-destination="" tabindex="0">
         
         
@@ -841,19 +988,11 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Leigh_Bowery.width-340.jpg 340w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Leigh_Bowery.width-420.jpg 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Leigh_Bowery.width-240.jpg 240w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Leigh_Bowery.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Leigh_Bowery.width-240.jpg 240w,
             " sizes="
-            (max-width: 340px) 340px,
-            (max-width: 479px) 420px,
-            (max-width: 540px) 240px,
-            (max-width: 840px) 340px,
-            240px,
+            420px,
             ">
-        <img alt="" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Leigh_Bowery.width-340.jpg" loading="lazy" width="340" height="340" data-current-size="0-0" data-visible="">
+        <img alt="" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Leigh_Bowery.width-420.jpg" loading="lazy" width="420" height="420" data-current-size="0-0" data-visible="">
     </picture>
 
     
@@ -963,7 +1102,7 @@
 
 
 
-</li><li class="card card--event   slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 268px;" tabindex="0">
+</li><li class="card card--event   slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 268px;" tabindex="0">
 
 
 
@@ -975,7 +1114,7 @@
         
         
         
-        <a href="https://www.tate.org.uk/whats-on/tate-britain/ed-atkins" aria-label="Ed Atkins" data-gtm-name="card_link_title" data-gtm-destination="" tabindex="0">
+        <a href="https://www.tate.org.uk/whats-on/tate-britain/burra-and-colquhoun" aria-label="Edward Burra – Ithell Colquhoun" data-gtm-name="card_link_title" data-gtm-destination="" tabindex="0">
         
         
             
@@ -992,19 +1131,11 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/mouth_1.width-1440.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/mouth_1.width-1440.width-420.jpg 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/mouth_1.width-1440.width-240.jpg 240w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/mouth_1.width-1440.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/mouth_1.width-1440.width-240.jpg 240w,
+            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Burra_and_Colquhoun_low_resolution_joint_image.width-420.jpg 420w,
             " sizes="
-            (max-width: 340px) 340px,
-            (max-width: 479px) 420px,
-            (max-width: 540px) 240px,
-            (max-width: 840px) 340px,
-            240px,
+            420px,
             ">
-        <img alt="" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/mouth_1.width-1440.width-340.jpg" loading="lazy" width="340" height="256" data-current-size="0-0" data-visible="">
+        <img alt="" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Burra_and_Colquhoun_low_resolution_joint_image.width-420.jpg" loading="lazy" width="420" height="315" data-current-size="0-0" data-visible="">
     </picture>
 
     
@@ -1049,7 +1180,7 @@
                     
 			<h2 class="card__title">				
 					
-					<span class="card__title--maintitle card__title--event">Ed Atkins</span>
+					<span class="card__title--maintitle card__title--event">Edward Burra – Ithell Colquhoun</span>
 					
 			</h2>
 	
@@ -1062,7 +1193,7 @@
                     
 			<div class="card__description">
 				
-				<p></p><p data-block-key="91jnh">A major new exhibition by one of the most influential British artists working today</p><p></p>
+				<p></p><p data-block-key="omqam">Two exhibitions, two influential British artists, one ticket</p><p></p>
 	    </div>
 	
 
@@ -1084,157 +1215,6 @@
 					<div class="event-icon">
 							<i class="icon--calendar"></i>
 					</div>
-					<span>Until 25 Aug 2025</span>
-			</div>
-			<div class="event-info event-info__price">
-					<!--
-					<div class="event-icon">    
-							<i class="icon--ticket"></i>
-					</div>
-					<span> £18 / Free for Members </span>
-					-->
-			</div>                    
-		</div>
-	
-                </div>
-
-            
-        
-        </a>
-        
-        
-    </div>
-    
-    
-        
-    
-    
-    
-    
-
-
-
-</li><li class="card card--event   slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 268px;" tabindex="0">
-
-
-
-    
-    
-    <div class="card__inner ">
-        
-        
-        
-        
-        
-        <a href="https://www.tate.org.uk/whats-on/tate-modern/the-genesis-exhibition-do-ho-suh" aria-label="The Genesis Exhibition: Do Ho Suh: Walk the House" data-gtm-name="card_link_title" data-gtm-destination="" tabindex="0">
-        
-        
-            
-
-                <div class="card-media card-media--image">
-                    <div class="card-media__inner responsive-container">
-                        
-                            
-                                
-                                
-                                    
-
-
-    
-    <picture>
-        <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Do_Ho_Suh_V04_1.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Do_Ho_Suh_V04_1.width-420.jpg 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Do_Ho_Suh_V04_1.width-240.jpg 240w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Do_Ho_Suh_V04_1.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Do_Ho_Suh_V04_1.width-240.jpg 240w,
-            " sizes="
-            (max-width: 340px) 340px,
-            (max-width: 479px) 420px,
-            (max-width: 540px) 240px,
-            (max-width: 840px) 340px,
-            240px,
-            ">
-        <img alt="A figure walking through a colourful architectural tunnel." src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Do_Ho_Suh_V04_1.width-340.jpg" loading="lazy" width="340" height="254" data-current-size="0-0" data-visible="">
-    </picture>
-
-    
-
-    
-
-
-
-                                
-                            
-                        
-                    </div>
-
-                    
-
-                </div>
-
-            
-
-            
-
-
-            
-                <div class="card-content">
-
-                    <div class="card-content__inner">
-
-                    
-
-		
-			<div class="card-tags">
-					
-							<span>Exhibition</span>
-					
-					
-					
-			</div>
-    
-
-	
-
-                    
-			<h2 class="card__title">				
-					
-					<span class="card__title--maintitle card__title--event">The Genesis Exhibition: Do Ho Suh: Walk the House</span>
-					
-			</h2>
-	
-
-
-                    
-                        
-                    
-
-                    
-			<div class="card__description">
-				
-				<p></p><p data-block-key="ekgi6">Enter the captivating world of leading contemporary artist Do Ho Suh</p><p></p>
-	    </div>
-	
-
-                    
-                        
-                    
-
-                    </div>
-                    
-		<div class="card-icons">
-			<div class="event-info event-info__venue">
-					<div class="event-icon">
-							<i class="icon--location"></i>
-					</div>
-					<span>Tate Modern</span>
-			</div>
-
-			<div class="event-info event-info__date">
-					<div class="event-icon">
-							<i class="icon--calendar"></i>
-					</div>
 					<span>Until 19 Oct 2025</span>
 			</div>
 			<div class="event-info event-info__price">
@@ -1242,7 +1222,7 @@
 					<div class="event-icon">    
 							<i class="icon--ticket"></i>
 					</div>
-					<span> £20 / Free for Members </span>
+					<span> £18 / Free for Members </span>
 					-->
 			</div>                    
 		</div>
@@ -1277,7 +1257,7 @@
         
         
         
-        <a href="https://www.tate.org.uk/whats-on/tate-modern/electric-dreams" aria-label="Electric Dreams" data-gtm-name="card_link_title" data-gtm-destination="" tabindex="0">
+        <a href="https://www.tate.org.uk/whats-on/tate-st-ives/liliane-lijn-arise-alive" aria-label="Liliane Lijn: Arise Alive" data-gtm-name="card_link_title" data-gtm-destination="" tabindex="0">
         
         
             
@@ -1294,19 +1274,11 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR54334_website.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR54334_website.width-420.jpg 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR54334_website.width-240.jpg 240w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR54334_website.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR54334_website.width-240.jpg 240w,
+            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Liliane_Lijn_1.width-420.jpg 420w,
             " sizes="
-            (max-width: 340px) 340px,
-            (max-width: 479px) 420px,
-            (max-width: 540px) 240px,
-            (max-width: 840px) 340px,
-            240px,
+            420px,
             ">
-        <img alt="" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR54334_website.width-340.jpg" loading="lazy" width="340" height="226" data-current-size="0-0" data-visible="">
+        <img alt="" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Liliane_Lijn_1.width-420.jpg" loading="lazy" width="420" height="279" data-current-size="0-0" data-visible="">
     </picture>
 
     
@@ -1351,7 +1323,7 @@
                     
 			<h2 class="card__title">				
 					
-					<span class="card__title--maintitle card__title--event">Electric Dreams: Art and Technology Before the Internet</span>
+					<span class="card__title--maintitle card__title--event">Liliane Lijn: Arise Alive</span>
 					
 			</h2>
 	
@@ -1364,7 +1336,7 @@
                     
 			<div class="card__description">
 				
-				<p></p><p data-block-key="ipetr">Enter a dreamscape of machines, movement, and captivating installations that play with your perception</p><p></p>
+				<p></p><p data-block-key="6js3b">Discover art that sees the world in terms of light and energy</p><p></p>
 	    </div>
 	
 
@@ -1379,21 +1351,21 @@
 					<div class="event-icon">
 							<i class="icon--location"></i>
 					</div>
-					<span>Tate Modern</span>
+					<span>Tate St Ives</span>
 			</div>
 
 			<div class="event-info event-info__date">
 					<div class="event-icon">
 							<i class="icon--calendar"></i>
 					</div>
-					<span>Until 1 Jun 2025</span>
+					<span>Until 2 Nov 2025</span>
 			</div>
 			<div class="event-info event-info__price">
 					<!--
 					<div class="event-icon">    
 							<i class="icon--ticket"></i>
 					</div>
-					<span> £22 / Free for Members </span>
+					<span> £14 / Free for Members </span>
 					-->
 			</div>                    
 		</div>
@@ -1534,6 +1506,8 @@
 <div class="block-heading"><div class="container">
     <div class="container__inner">
         <h2 id="galleries" class="section__title">Galleries</h2>
+
+
     </div>
 </div>
 </div>
@@ -1602,19 +1576,11 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_britain_exterior_1_nuJ6H7o.width-340.jpg 340w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_britain_exterior_1_nuJ6H7o.width-420.jpg 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_britain_exterior_1_nuJ6H7o.width-240.jpg 240w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_britain_exterior_1_nuJ6H7o.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_britain_exterior_1_nuJ6H7o.width-240.jpg 240w,
             " sizes="
-            (max-width: 340px) 340px,
-            (max-width: 479px) 420px,
-            (max-width: 540px) 240px,
-            (max-width: 840px) 340px,
-            240px,
+            420px,
             ">
-        <img alt="A large building with columns and banners that read 'Tate Britain and 'Free for all'" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_britain_exterior_1_nuJ6H7o.width-340.jpg" loading="lazy" width="340" height="226" data-current-size="0-0" data-visible="">
+        <img alt="A large building with columns and banners that read 'Tate Britain and 'Free for all'" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_britain_exterior_1_nuJ6H7o.width-420.jpg" loading="lazy" width="420" height="280" data-current-size="0-0" data-visible="">
     </picture>
 
     
@@ -1760,19 +1726,11 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_modern_1jpg.width-340.jpg 340w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_modern_1jpg.width-420.jpg 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_modern_1jpg.width-240.jpg 240w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_modern_1jpg.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_modern_1jpg.width-240.jpg 240w,
             " sizes="
-            (max-width: 340px) 340px,
-            (max-width: 479px) 420px,
-            (max-width: 540px) 240px,
-            (max-width: 840px) 340px,
-            240px,
+            420px,
             ">
-        <img alt="A tall tower in front of a large brick building" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_modern_1jpg.width-340.jpg" loading="lazy" width="340" height="226" data-current-size="0-0" data-visible="">
+        <img alt="A tall tower in front of a large brick building" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_modern_1jpg.width-420.jpg" loading="lazy" width="420" height="280" data-current-size="0-0" data-visible="">
     </picture>
 
     
@@ -1918,19 +1876,11 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Liverpool__RIBA_North_banner__Tate_Brian_.width-340.png 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Liverpool__RIBA_North_banner__Tate_Brian_.width-420.png 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Liverpool__RIBA_North_banner__Tate_Brian_.width-240.png 240w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Liverpool__RIBA_North_banner__Tate_Brian_.width-340.png 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Liverpool__RIBA_North_banner__Tate_Brian_.width-240.png 240w,
+            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Liverpool__RIBA_North_banner__Tate_Brian_.width-420.jpg 420w,
             " sizes="
-            (max-width: 340px) 340px,
-            (max-width: 479px) 420px,
-            (max-width: 540px) 240px,
-            (max-width: 840px) 340px,
-            240px,
+            420px,
             ">
-        <img alt="A photograph of the exterior of the Mann Island complex which features two giant black buildings and the word 'Discover' written above the door." src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Liverpool__RIBA_North_banner__Tate_Brian_.width-340.png" loading="lazy" width="340" height="226" data-current-size="0-0" data-visible="">
+        <img alt="A photograph of the exterior of the Mann Island complex which features two giant black buildings and the word 'Discover' written above the door." src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Liverpool__RIBA_North_banner__Tate_Brian_.width-420.jpg" loading="lazy" width="420" height="280" data-current-size="0-0" data-visible="">
     </picture>
 
     
@@ -2076,19 +2026,11 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_st_ives_building_766TEk1.width-340.jpg 340w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_st_ives_building_766TEk1.width-420.jpg 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_st_ives_building_766TEk1.width-240.jpg 240w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_st_ives_building_766TEk1.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_st_ives_building_766TEk1.width-240.jpg 240w,
             " sizes="
-            (max-width: 340px) 340px,
-            (max-width: 479px) 420px,
-            (max-width: 540px) 240px,
-            (max-width: 840px) 340px,
-            240px,
+            420px,
             ">
-        <img alt="Stairs leading up to the large curved building entrance of Tate St Ives" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_st_ives_building_766TEk1.width-340.jpg" loading="lazy" width="340" height="226" data-current-size="0-0" data-visible="">
+        <img alt="Stairs leading up to the large curved building entrance of Tate St Ives" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_st_ives_building_766TEk1.width-420.jpg" loading="lazy" width="420" height="280" data-current-size="0-0" data-visible="">
     </picture>
 
     
@@ -2235,6 +2177,8 @@
 <div class="block-heading"><div class="container">
     <div class="container__inner">
         <h2 id="support-us" class="section__title">Support us</h2>
+
+
     </div>
 </div>
 </div>
@@ -2300,21 +2244,13 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_shop.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_shop.width-420.jpg 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_shop.width-240.jpg 240w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_shop.width-340.jpg 340w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_shop.width-420.jpg 420w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_shop.width-540.jpg 540w,
             " sizes="
-            (max-width: 340px) 340px,
             (max-width: 479px) 420px,
-            (max-width: 540px) 240px,
-            (max-width: 840px) 340px,
-            (max-width: 1024px) 420px,
             540px,
             ">
-        <img alt="A person reading a book in a gallery shop" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_shop.width-340.jpg" loading="lazy" width="340" height="255" data-current-size="0-0" data-visible="">
+        <img alt="A person reading a book in a gallery shop" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_shop.width-420.jpg" loading="lazy" width="420" height="315" data-current-size="0-0" data-visible="">
     </picture>
 
     
@@ -2437,21 +2373,13 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/visitor_drawing_turner_collection_tate_britain.width-340.png 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/visitor_drawing_turner_collection_tate_britain.width-420.png 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/visitor_drawing_turner_collection_tate_britain.width-240.png 240w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/visitor_drawing_turner_collection_tate_britain.width-340.png 340w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/visitor_drawing_turner_collection_tate_britain.width-420.png 420w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/visitor_drawing_turner_collection_tate_britain.width-540.png 540w,
             " sizes="
-            (max-width: 340px) 340px,
             (max-width: 479px) 420px,
-            (max-width: 540px) 240px,
-            (max-width: 840px) 340px,
-            (max-width: 1024px) 420px,
             540px,
             ">
-        <img alt="A visitor sitting and drawing in a gallery" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/visitor_drawing_turner_collection_tate_britain.width-340.png" loading="lazy" width="340" height="255" data-current-size="0-0" data-visible="">
+        <img alt="A visitor sitting and drawing in a gallery" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/visitor_drawing_turner_collection_tate_britain.width-420.png" loading="lazy" width="420" height="315" data-current-size="0-0" data-visible="">
     </picture>
 
     
@@ -2580,7 +2508,7 @@
 
 <div class="container banner-container banner-container--50-height banner-container--full-width">
 
-    <div class="container__inner" style="background-color: #B9B9F9">
+    <div class="container__inner" style="background-color: #85DEE7">
 
         <div class="banner banner--grid banner--text-left">
 
@@ -2622,21 +2550,17 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR54334_website.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR54334_website.width-420.jpg 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR54334_website.width-680.jpg 680w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR54334_website.width-840.jpg 840w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR54334_website.width-1440.jpg 1440w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR54334_website.width-2560.jpg 2560w,
+            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR57129_1.width-420.jpg 420w,
+            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR57129_1.width-840.jpg 840w,
+            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR57129_1.width-1440.jpg 1440w,
+            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR57129_1.width-2560.jpg 1600w,
             " sizes="
-            (max-width: 340px) 340px,
             (max-width: 420px) 420px,
-            (max-width: 680px) 680px,
             (max-width: 840px) 840px,
             (max-width: 1440px) 1440px,
             2560px,
             ">
-        <img alt="" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR54334_website.width-340.jpg" loading="lazy" width="340" height="226" style="object-position:  50% 50%;">
+        <img alt="" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/_AR57129_1.width-420.jpg" loading="lazy" width="420" height="280" style="object-position:  50% 50%;">
     </picture>
 
     
@@ -2656,6 +2580,8 @@
 <div class="block-heading"><div class="container">
     <div class="container__inner">
         <h2 id="watch-play-listen" class="section__title">Watch, play, listen</h2>
+
+
     </div>
 </div>
 </div>
@@ -2724,21 +2650,11 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/bowling.width-340.jpg 340w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/bowling.width-420.jpg 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/bowling.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/bowling.width-240.jpg 240w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/bowling.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/bowling.width-340.jpg 340w,
             " sizes="
-            (max-width: 340px) 340px,
-            (max-width: 479px) 420px,
-            (max-width: 760px) 340px,
-            (max-width: 840px) 240px,
-            (max-width: 1200px) 340px,
-            340px,
+            420px,
             ">
-        <img alt="two people draw on painting on the floor" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/bowling.width-340.jpg" loading="lazy" width="340" height="297" data-current-size="0-0" data-visible="">
+        <img alt="two people draw on painting on the floor" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/bowling.width-420.jpg" loading="lazy" width="420" height="367" data-current-size="0-0" data-visible="">
     </picture>
 
     
@@ -2877,21 +2793,11 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-340_28B6OXv.jpg 340w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-420_cBW0NVq.jpg 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-340_28B6OXv.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-240_t9VUSLt.jpg 240w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-340_28B6OXv.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-340_28B6OXv.jpg 340w,
             " sizes="
-            (max-width: 340px) 340px,
-            (max-width: 479px) 420px,
-            (max-width: 760px) 340px,
-            (max-width: 840px) 240px,
-            (max-width: 1200px) 340px,
-            340px,
+            420px,
             ">
-        <img alt="" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-340_28B6OXv.jpg" loading="lazy" width="340" height="297" data-current-size="0-0" data-visible="">
+        <img alt="" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-420_cBW0NVq.jpg" loading="lazy" width="420" height="367" data-current-size="0-0" data-visible="">
     </picture>
 
     
@@ -3193,21 +3099,17 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/N00476_10.width-340.jpg 340w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/N00476_10.width-420.jpg 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/N00476_10.width-680.jpg 680w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/N00476_10.width-840.jpg 840w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/N00476_10.width-1440.jpg 1440w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/N00476_10.width-2560.jpg 1536w,
             " sizes="
-            (max-width: 340px) 340px,
             (max-width: 420px) 420px,
-            (max-width: 680px) 680px,
             (max-width: 840px) 840px,
             (max-width: 1440px) 1440px,
             2560px,
             ">
-        <img alt="" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/N00476_10.width-340.jpg" loading="lazy" width="340" height="242" style="object-position:  50% 50%;">
+        <img alt="" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/N00476_10.width-420.jpg" loading="lazy" width="420" height="299" style="object-position:  50% 50%;">
     </picture>
 
     
@@ -3226,6 +3128,8 @@
 <div class="block-heading"><div class="container">
     <div class="container__inner">
         <h2 id="shop" class="section__title">Shop</h2>
+
+
     </div>
 </div>
 </div>
@@ -3291,21 +3195,11 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/hockney_book_tate.width-340.jpg 340w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/hockney_book_tate.width-420.jpg 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/hockney_book_tate.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/hockney_book_tate.width-240.jpg 240w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/hockney_book_tate.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/hockney_book_tate.width-340.jpg 340w,
             " sizes="
-            (max-width: 340px) 340px,
-            (max-width: 479px) 420px,
-            (max-width: 760px) 340px,
-            (max-width: 840px) 240px,
-            (max-width: 1200px) 340px,
-            340px,
+            420px,
             ">
-        <img alt="David Hockney book by Tate Publishing" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/hockney_book_tate.width-340.jpg" loading="lazy" width="340" height="255" data-current-size="0-0" data-visible="">
+        <img alt="David Hockney book by Tate Publishing" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/hockney_book_tate.width-420.jpg" loading="lazy" width="420" height="315" data-current-size="0-0" data-visible="">
     </picture>
 
     
@@ -3428,21 +3322,11 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/the_art_of_giving.width-340.jpg 340w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/the_art_of_giving.width-420.jpg 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/the_art_of_giving.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/the_art_of_giving.width-240.jpg 240w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/the_art_of_giving.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/the_art_of_giving.width-340.jpg 340w,
             " sizes="
-            (max-width: 340px) 340px,
-            (max-width: 479px) 420px,
-            (max-width: 760px) 340px,
-            (max-width: 840px) 240px,
-            (max-width: 1200px) 340px,
-            340px,
+            420px,
             ">
-        <img alt="The Art of Gifting at Tate Shops" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/the_art_of_giving.width-340.jpg" loading="lazy" width="340" height="255" data-current-size="0-0" data-visible="">
+        <img alt="The Art of Gifting at Tate Shops" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/the_art_of_giving.width-420.jpg" loading="lazy" width="420" height="315" data-current-size="0-0" data-visible="">
     </picture>
 
     
@@ -3565,21 +3449,11 @@
     
     <picture>
         <source srcset="
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_prints_matisse.width-340.jpg 340w,
             https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_prints_matisse.width-420.jpg 420w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_prints_matisse.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_prints_matisse.width-240.jpg 240w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_prints_matisse.width-340.jpg 340w,
-            https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_prints_matisse.width-340.jpg 340w,
             " sizes="
-            (max-width: 340px) 340px,
-            (max-width: 479px) 420px,
-            (max-width: 760px) 340px,
-            (max-width: 840px) 240px,
-            (max-width: 1200px) 340px,
-            340px,
+            420px,
             ">
-        <img alt="A wall displaying Tate fine art prints" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_prints_matisse.width-340.jpg" loading="lazy" width="340" height="255" data-current-size="0-0" data-visible="">
+        <img alt="A wall displaying Tate fine art prints" src="https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_prints_matisse.width-420.jpg" loading="lazy" width="420" height="315" data-current-size="0-0" data-visible="">
     </picture>
 
     
@@ -3887,7 +3761,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 
-<script src="/static/js/TateUI.e7f20f145a86.js"></script><a href="#" class="page--back-to-top" data-role="btt">
+<script src="/static/js/TateUI.9d821904577c.js"></script><a href="#" class="page--back-to-top" data-role="btt">
 Back to top
 </a>
 
@@ -3964,10 +3838,10 @@ Back to top
 
 
 <div style="display: none; visibility: hidden;"><script type="text/javascript" src="//static.queue-it.net/script/queueclient.min.js"></script>
-<script data-queueit-c="tate" type="text/javascript" src="//static.queue-it.net/script/queueconfigloader.min.js"></script></div><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><div style="display: none; visibility: hidden;"><script async="null" src="https://tags.pw.adn.cloud/BFWG9R/activation.js"></script></div><div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" width="256" height="60" role="presentation" name="a-n78gykf5z4jn" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LelrMMcAAAAAGjgfa_7vNO772YI9PNimZ2FDi0e&amp;co=aHR0cHM6Ly93d3cudGF0ZS5vcmcudWs6NDQz&amp;hl=en&amp;v=jt8Oh2-Ue1u7nEbJQUIdocyd&amp;size=invisible&amp;cb=wm6gryyxnk7l"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div><div id="onetrust-consent-sdk" data-nosnippet="true"><div class="onetrust-pc-dark-filter ot-fade-in" style="z-index:2147483645;"></div><div id="onetrust-banner-sdk" class="otCenterRounded ot-iab-2 default ot-close-btn-link vertical-align-content" tabindex="0" role="region" aria-label="Cookie banner"><div class="ot-sdk-container" role="dialog" aria-modal="true" aria-label="We Care About Your Privacy"><div class="ot-sdk-row"><div id="onetrust-group-container" class="ot-sdk-twelve ot-sdk-columns"><div id="onetrust-policy"><div class="banner-header"><div class="banner_logo"></div></div><h2 id="onetrust-policy-title">We Care About Your Privacy</h2><span class="ot-b-addl-desc">When you visit Tate online, we and our partners may use cookies and similar technologies to help us bring our collection and content to you. Some are necessary to help our website work properly and can't be switched off, and some are optional but support Tate and your experience in other ways.</span><div id="onetrust-policy-text">We and our <span class="ot-tcf2-vendor-count ot-text-bold">859</span> partners store and access personal data, like browsing data or unique identifiers, on your device. Selecting I Accept enables tracking technologies to support the purposes shown under we and our partners process data to provide. If trackers are disabled, some content and ads you see may not be as relevant to you. You can resurface this menu to change your choices or withdraw consent at any time by clicking the Manage Preferences link on the bottom of the webpage . Your choices will have effect within our Website. For more details, refer to our Privacy Policy.</div><div class="ot-dpd-container"><h3 class="ot-dpd-title">We and our partners process data to:</h3><div class="ot-dpd-content"><p class="ot-dpd-desc">Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development. <button class="ot-link-btn onetrust-vendors-list-handler">
+<script data-queueit-c="tate" type="text/javascript" src="//static.queue-it.net/script/queueconfigloader.min.js"></script></div><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><div style="display: none; visibility: hidden;"><script async="null" src="https://tags.pw.adn.cloud/BFWG9R/activation.js"></script></div><div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" width="256" height="60" role="presentation" name="a-obqikp30t8j1" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LelrMMcAAAAAGjgfa_7vNO772YI9PNimZ2FDi0e&amp;co=aHR0cHM6Ly93d3cudGF0ZS5vcmcudWs6NDQz&amp;hl=en&amp;v=3jpV4E_UA9gZWYy11LtggjoU&amp;size=invisible&amp;anchor-ms=20000&amp;execute-ms=15000&amp;cb=hr5itz323zzs"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div><div id="onetrust-consent-sdk" data-nosnippet="true"><div class="onetrust-pc-dark-filter ot-fade-in" style="z-index:2147483645;"></div><div id="onetrust-banner-sdk" class="otCenterRounded ot-iab-2 default ot-close-btn-link vertical-align-content" tabindex="0" role="region" aria-label="Cookie banner"><div class="ot-sdk-container" role="dialog" aria-modal="true" aria-label="We Care About Your Privacy"><div class="ot-sdk-row"><div id="onetrust-group-container" class="ot-sdk-twelve ot-sdk-columns"><div id="onetrust-policy"><div class="banner-header"><div class="banner_logo"></div></div><h2 id="onetrust-policy-title">We Care About Your Privacy</h2><span class="ot-b-addl-desc">When you visit Tate online, we and our partners may use cookies and similar technologies to help us bring our collection and content to you. Some are necessary to help our website work properly and can't be switched off, and some are optional but support Tate and your experience in other ways.</span><div id="onetrust-policy-text">We and our <span class="ot-tcf2-vendor-count ot-text-bold">832</span> partners store and access personal data, like browsing data or unique identifiers, on your device. Selecting I Accept enables tracking technologies to support the purposes shown under we and our partners process data to provide. If trackers are disabled, some content and ads you see may not be as relevant to you. You can resurface this menu to change your choices or withdraw consent at any time by clicking the Manage Preferences link on the bottom of the webpage . Your choices will have effect within our Website. For more details, refer to our Privacy Policy.</div><div class="ot-dpd-container"><h3 class="ot-dpd-title">We and our partners process data to:</h3><div class="ot-dpd-content"><p class="ot-dpd-desc">Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development. <button class="ot-link-btn onetrust-vendors-list-handler">
         List of Partners 
         </button></p></div></div></div></div><div id="onetrust-button-group-parent" class="ot-sdk-twelve ot-sdk-columns"><div id="onetrust-button-group"><button id="onetrust-pc-btn-handler">Show Purposes</button><div class="banner-actions-container"> <button id="onetrust-accept-btn-handler">I Accept</button></div></div></div><!-- Close Button --><div id="onetrust-close-btn-container"><button class="onetrust-close-btn-handler banner-close-button ot-close-link">Continue without Accepting</button></div><!-- Close Button END--></div></div></div><div id="onetrust-pc-sdk" class="otPcCenter ot-hide ot-fade-in" lang="en" aria-label="Preference center" role="region"><div role="dialog" aria-modal="true" style="height: 100%;" aria-label="About Your Privacy"><!-- Close Button --><div class="ot-pc-header"><!-- Logo Tag --><div class="ot-pc-logo" role="img" aria-label="Company Logo"><img alt="Company Logo" src="https://cdn-ukwest.onetrust.com/logos/static/ot_company_logo.png"></div></div><!-- Close Button --><div id="ot-pc-content" class="ot-pc-scrollbar"><div class="ot-optout-signal ot-hide"><div class="ot-optout-icon"><svg xmlns="http://www.w3.org/2000/svg"><path class="ot-floating-button__svg-fill" d="M14.588 0l.445.328c1.807 1.303 3.961 2.533 6.461 3.688 2.015.93 4.576 1.746 7.682 2.446 0 14.178-4.73 24.133-14.19 29.864l-.398.236C4.863 30.87 0 20.837 0 6.462c3.107-.7 5.668-1.516 7.682-2.446 2.709-1.251 5.01-2.59 6.906-4.016zm5.87 13.88a.75.75 0 00-.974.159l-5.475 6.625-3.005-2.997-.077-.067a.75.75 0 00-.983 1.13l4.172 4.16 6.525-7.895.06-.083a.75.75 0 00-.16-.973z" fill="#FFF" fill-rule="evenodd"></path></svg></div><span></span></div><h2 id="ot-pc-title">About Your Privacy</h2><div id="ot-pc-desc">We process your data to deliver content or advertisements and measure the delivery of such content or advertisements to extract insights about our website. We share this information with our partners on the basis of consent. You may exercise your right to consent, based on a specific purpose below or at a partner level in the link under each purpose. Some vendors may process your data based on their legitimate interests, which does not require your consent. You cannot object to tracking technologies placed to ensure security, prevent fraud, fix errors, or deliver and present advertising and content, and precise geolocation data and active scanning of device characteristics for identification may be used to support this purpose. This exception does not apply to targeted advertising. These choices will be signaled to our vendors participating in the Transparency and Consent Framework.
-            <br><a href="https://www.tate.org.uk/about-us/policies-and-procedures/website-terms-use/cookie-policy" class="privacy-notice-link" rel="noopener" target="_blank" aria-label="More information about your privacy, opens in a new tab">More information</a></div><button id="accept-recommended-btn-handler" ot-button-order="0">Allow All</button><section class="ot-sdk-row ot-cat-grp"><h3 id="ot-category-title"> Manage Consent Preferences</h3><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="C0002"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-C0002" aria-labelledby="ot-header-id-C0002"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0002">Performance Cookies</h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-C0002" id="ot-group-id-C0002" role="switch" class="category-switch-handler" data-optanongroupid="C0002" aria-labelledby="ot-header-id-C0002"> <label class="ot-switch" for="ot-group-id-C0002"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Performance Cookies</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0002">These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="C0004"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-C0004" aria-labelledby="ot-header-id-C0004"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0004">Targeting Cookies</h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-C0004" id="ot-group-id-C0004" role="switch" class="category-switch-handler" data-optanongroupid="C0004" aria-labelledby="ot-header-id-C0004"> <label class="ot-switch" for="ot-group-id-C0004"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Targeting Cookies</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0004">These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="C0003"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-C0003" aria-labelledby="ot-header-id-C0003"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0003">Functional Cookies</h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-C0003" id="ot-group-id-C0003" role="switch" class="category-switch-handler" data-optanongroupid="C0003" aria-labelledby="ot-header-id-C0003"> <label class="ot-switch" for="ot-group-id-C0003"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Functional Cookies</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0003">These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="C0001"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-C0001" aria-labelledby="ot-header-id-C0001 ot-status-id-C0001"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0001">Strictly Necessary Cookies</h4><div id="ot-status-id-C0001" class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0001">These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.</p></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="IAB2V2_1"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-IAB2V2_1" aria-labelledby="ot-header-id-IAB2V2_1"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-IAB2V2_1">Store and/or access information on a device<span class="ot-pur-vdr-count"> 698 partners can use this purpose </span></h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-IAB2V2_1" id="ot-group-id-IAB2V2_1" role="switch" class="category-switch-handler" data-optanongroupid="IAB2V2_1" aria-labelledby="ot-header-id-IAB2V2_1"> <label class="ot-switch" for="ot-group-id-IAB2V2_1"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Store and/or access information on a device</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-IAB2V2_1">Cookies, device or similar online identifiers (e.g. login-based identifiers, randomly assigned identifiers, network based identifiers) together with other information (e.g. browser type and information, language, screen size, supported technologies etc.) can be stored or read on your device to recognise it each time it connects to an app or to a website, for one or several of the purposes presented here.</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="IAB2V2_1">List of IAB Vendors‎</button><button class="ot-link-btn ot-pgph-link" aria-label="View Illustrations" data-parent-id="IAB2V2_1">&nbsp;|&nbsp;View Illustrations&nbsp;</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="V2STACK42"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-V2STACK42" aria-labelledby="ot-header-id-V2STACK42"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-V2STACK42">Personalised advertising and content, advertising and content measurement, audience research and services development<span class="ot-pur-vdr-count"> 828 partners can use this purpose </span></h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-V2STACK42" id="ot-group-id-V2STACK42" role="switch" class="category-switch-handler" data-optanongroupid="V2STACK42" aria-labelledby="ot-header-id-V2STACK42"> <label class="ot-switch" for="ot-group-id-V2STACK42"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Personalised advertising and content, advertising and content measurement, audience research and services development</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_2"><h5>Use limited data to select advertising<span class="ot-pur-vdr-count"> 647 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_2" role="switch" data-optanongroupid="IAB2V2_2" class="cookie-subgroup-handler" aria-label="Use limited data to select advertising"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_2"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Advertising presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you).</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_2">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_3"><h5>Create profiles for personalised advertising<span class="ot-pur-vdr-count"> 516 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_3" role="switch" data-optanongroupid="IAB2V2_3" class="cookie-subgroup-handler" aria-label="Create profiles for personalised advertising"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_3"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Information about your activity on this service (such as forms you submit, content you look at) can be stored and combined with other information about you (for example, information from your previous activity on this service and other websites or apps) or similar users. This is then used to build or improve a profile about you (that might include possible interests and personal aspects). Your profile can be used (also later) to present advertising that appears more relevant based on your possible interests by this and other entities.</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_3">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_4"><h5>Use profiles to select personalised advertising<span class="ot-pur-vdr-count"> 516 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_4" role="switch" data-optanongroupid="IAB2V2_4" class="cookie-subgroup-handler" aria-label="Use profiles to select personalised advertising"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_4"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Advertising presented to you on this service can be based on your advertising profiles, which can reflect your activity on this service or other websites or apps (like the forms you submit, content you look at), possible interests and personal aspects.</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_4">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_5"><h5>Create profiles to personalise content<span class="ot-pur-vdr-count"> 226 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_5" role="switch" data-optanongroupid="IAB2V2_5" class="cookie-subgroup-handler" aria-label="Create profiles to personalise content"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_5"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Information about your activity on this service (for instance, forms you submit, non-advertising content you look at) can be stored and combined with other information about you (such as your previous activity on this service or other websites or apps) or similar users. This is then used to build or improve a profile about you (which might for example include possible interests and personal aspects). Your profile can be used (also later) to present content that appears more relevant based on your possible interests, such as by adapting the order in which content is shown to you, so that it is even easier for you to find content that matches your interests.</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_5">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_6"><h5>Use profiles to select personalised content<span class="ot-pur-vdr-count"> 204 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_6" role="switch" data-optanongroupid="IAB2V2_6" class="cookie-subgroup-handler" aria-label="Use profiles to select personalised content"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_6"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Content presented to you on this service can be based on your content personalisation profiles, which can reflect your activity on this or other services (for instance, the forms you submit, content you look at), possible interests and personal aspects. This can for example be used to adapt the order in which content is shown to you, so that it is even easier for you to find (non-advertising) content that matches your interests.</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_6">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_7"><h5>Measure advertising performance<span class="ot-pur-vdr-count"> 751 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_7" role="switch" data-optanongroupid="IAB2V2_7" class="cookie-subgroup-handler" aria-label="Measure advertising performance"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_7"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Information regarding which advertising is presented to you and how you interact with it can be used to determine how well an advert has worked for you or other users and whether the goals of the advertising were reached. For instance, whether you saw an ad, whether you clicked on it, whether it led you to buy a product or visit a website, etc. This is very helpful to understand the relevance of advertising campaigns.</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_7">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_8"><h5>Measure content performance<span class="ot-pur-vdr-count"> 376 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_8" role="switch" data-optanongroupid="IAB2V2_8" class="cookie-subgroup-handler" aria-label="Measure content performance"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_8"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Information regarding which content is presented to you and how you interact with it can be used to determine whether the (non-advertising) content e.g. reached its intended audience and matched your interests. For instance, whether you read an article, watch a video, listen to a podcast or look at a product description, how long you spent on this service and the web pages you visit etc. This is very helpful to understand the relevance of (non-advertising) content that is shown to you.</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_8">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_9"><h5>Understand audiences through statistics or combinations of data from different sources<span class="ot-pur-vdr-count"> 474 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_9" role="switch" data-optanongroupid="IAB2V2_9" class="cookie-subgroup-handler" aria-label="Understand audiences through statistics or combinations of data from different sources"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_9"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Reports can be generated based on the combination of data sets (like user profiles, statistics, market research, analytics data) regarding your interactions and those of other users with advertising or (non-advertising) content to identify common characteristics (for instance, to determine which target audiences are more receptive to an ad campaign or to certain contents).</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_9">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_10"><h5>Develop and improve services<span class="ot-pur-vdr-count"> 563 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_10" role="switch" data-optanongroupid="IAB2V2_10" class="cookie-subgroup-handler" aria-label="Develop and improve services"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_10"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Information about your activity on this service, such as your interaction with ads or content, can be very helpful to improve products and services and to build new products and services based on user interactions, the type of audience, etc. This specific purpose does not include the development or improvement of user profiles and identifiers.</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_10">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_11"><h5>Use limited data to select content<span class="ot-pur-vdr-count"> 143 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_11" role="switch" data-optanongroupid="IAB2V2_11" class="cookie-subgroup-handler" aria-label="Use limited data to select content"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_11"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Content presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type, or which content you are (or have been) interacting with (for example, to limit the number of times a video or an article is presented to you).</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_11">View Illustrations&nbsp;</button></li></ul></div><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="V2STACK42">List of IAB Vendors‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="ISF2V2_1"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-ISF2V2_1" aria-labelledby="ot-header-id-ISF2V2_1"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-ISF2V2_1">Use precise geolocation data<span class="ot-pur-vdr-count"> 263 partners can use this special feature </span></h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-ISF2V2_1" id="ot-group-id-ISF2V2_1" role="switch" class="category-switch-handler" data-optanongroupid="ISF2V2_1" aria-labelledby="ot-header-id-ISF2V2_1"> <label class="ot-switch" for="ot-group-id-ISF2V2_1"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Use precise geolocation data</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-ISF2V2_1">With your acceptance, your precise location (within a radius of less than 500 metres) may be used in support of the purposes explained in this notice.</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="ISF2V2_1">List of IAB Vendors‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="ISF2V2_2"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-ISF2V2_2" aria-labelledby="ot-header-id-ISF2V2_2"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-ISF2V2_2">Actively scan device characteristics for identification<span class="ot-pur-vdr-count"> 134 partners can use this special feature </span></h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-ISF2V2_2" id="ot-group-id-ISF2V2_2" role="switch" class="category-switch-handler" data-optanongroupid="ISF2V2_2" aria-labelledby="ot-header-id-ISF2V2_2"> <label class="ot-switch" for="ot-group-id-ISF2V2_2"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Actively scan device characteristics for identification</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-ISF2V2_2">With your acceptance, certain characteristics specific to your device might be requested and used to distinguish it from other devices (such as the installed fonts or plugins, the resolution of your screen) in support of the purposes explained in this notice.</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="ISF2V2_2">List of IAB Vendors‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="ISP2V2_1"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-ISP2V2_1" aria-labelledby="ot-header-id-ISP2V2_1 ot-status-id-ISP2V2_1"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-ISP2V2_1">Ensure security, prevent and detect fraud, and fix errors<span class="ot-pur-vdr-count"> 533 partners can use this special purpose </span></h4><div id="ot-status-id-ISP2V2_1" class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-ISP2V2_1">Your data can be used to monitor for and prevent unusual and possibly fraudulent activity (for example, regarding advertising, ad clicks by bots), and ensure systems and processes work properly and securely. It can also be used to correct any problems you, the publisher or the advertiser may encounter in the delivery of content and ads and in your interaction with them.</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="ISP2V2_1">List of IAB Vendors‎</button><button class="ot-link-btn ot-pgph-link" aria-label="View Illustrations" data-parent-id="ISP2V2_1">&nbsp;|&nbsp;View Illustrations&nbsp;</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="ISP2V2_2"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-ISP2V2_2" aria-labelledby="ot-header-id-ISP2V2_2 ot-status-id-ISP2V2_2"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-ISP2V2_2">Deliver and present advertising and content<span class="ot-pur-vdr-count"> 532 partners can use this special purpose </span></h4><div id="ot-status-id-ISP2V2_2" class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-ISP2V2_2">Certain information (like an IP address or device capabilities) is used to ensure the technical compatibility of the content or advertising, and to facilitate the transmission of the content or ad to your device.</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="ISP2V2_2">List of IAB Vendors‎</button><button class="ot-link-btn ot-pgph-link" aria-label="View Illustrations" data-parent-id="ISP2V2_2">&nbsp;|&nbsp;View Illustrations&nbsp;</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="ISP2V2_3"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-ISP2V2_3" aria-labelledby="ot-header-id-ISP2V2_3 ot-status-id-ISP2V2_3"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-ISP2V2_3">Save and communicate privacy choices<span class="ot-pur-vdr-count"> 365 partners can use this special purpose </span></h4><div id="ot-status-id-ISP2V2_3" class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-ISP2V2_3">The choices you make regarding the purposes and entities listed in this notice are saved and made available to those entities in the form of digital signals (such as a string of characters). This is necessary in order to enable both this service and those entities to respect such choices.</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="ISP2V2_3">List of IAB Vendors‎</button><button class="ot-link-btn ot-pgph-link" aria-label="View Illustrations" data-parent-id="ISP2V2_3">&nbsp;|&nbsp;View Illustrations&nbsp;</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="IFE2V2_1"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-IFE2V2_1" aria-labelledby="ot-header-id-IFE2V2_1 ot-status-id-IFE2V2_1"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-IFE2V2_1">Match and combine data from other data sources<span class="ot-pur-vdr-count"> 377 partners can use this feature </span></h4><div id="ot-status-id-IFE2V2_1" class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-IFE2V2_1">Information about your activity on this service may be matched and combined with other information relating to you and originating from various sources (for instance your activity on a separate online service, your use of a loyalty card in-store, or your answers to a survey), in support of the purposes explained in this notice.</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="IFE2V2_1">List of IAB Vendors‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="IFE2V2_2"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-IFE2V2_2" aria-labelledby="ot-header-id-IFE2V2_2 ot-status-id-IFE2V2_2"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-IFE2V2_2">Link different devices<span class="ot-pur-vdr-count"> 333 partners can use this feature </span></h4><div id="ot-status-id-IFE2V2_2" class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-IFE2V2_2">In support of the purposes explained in this notice, your device might be considered as likely linked to other devices that belong to you or your household (for instance because you are logged in to the same service on both your phone and your computer, or because you may use the same Internet connection on both devices).</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="IFE2V2_2">List of IAB Vendors‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="IFE2V2_3"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-IFE2V2_3" aria-labelledby="ot-header-id-IFE2V2_3 ot-status-id-IFE2V2_3"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-IFE2V2_3">Identify devices based on information transmitted automatically<span class="ot-pur-vdr-count"> 507 partners can use this feature </span></h4><div id="ot-status-id-IFE2V2_3" class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-IFE2V2_3">Your device might be distinguished from other devices based on information it automatically sends when accessing the Internet (for instance, the IP address of your Internet connection or the type of browser you are using) in support of the purposes exposed in this notice.</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="IFE2V2_3">List of IAB Vendors‎</button></div></div></div><!-- Groups sections starts --><!-- Group section ends --><!-- Accordion Group section starts --><!-- Accordion Group section ends --></section></div><section id="ot-pc-lst" class="ot-hide ot-hosts-ui ot-pc-scrollbar"><div id="ot-pc-hdr"><div id="ot-lst-title"><button class="ot-link-btn back-btn-handler" aria-label="Back"><svg id="ot-back-arw" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 444.531 444.531" xml:space="preserve"><title>Back Button</title><g><path fill="#656565" d="M213.13,222.409L351.88,83.653c7.05-7.043,10.567-15.657,10.567-25.841c0-10.183-3.518-18.793-10.567-25.835
+            <br><a href="https://www.tate.org.uk/about-us/policies-and-procedures/website-terms-use/cookie-policy" class="privacy-notice-link" rel="noopener" target="_blank" aria-label="More information about your privacy, opens in a new tab">More information</a></div><button id="accept-recommended-btn-handler" ot-button-order="0">Allow All</button><section class="ot-sdk-row ot-cat-grp"><h3 id="ot-category-title"> Manage Consent Preferences</h3><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="C0002"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-C0002" aria-labelledby="ot-header-id-C0002"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0002">Performance Cookies</h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-C0002" id="ot-group-id-C0002" role="switch" class="category-switch-handler" data-optanongroupid="C0002" aria-labelledby="ot-header-id-C0002"> <label class="ot-switch" for="ot-group-id-C0002"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Performance Cookies</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0002">These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="C0004"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-C0004" aria-labelledby="ot-header-id-C0004"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0004">Targeting Cookies</h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-C0004" id="ot-group-id-C0004" role="switch" class="category-switch-handler" data-optanongroupid="C0004" aria-labelledby="ot-header-id-C0004"> <label class="ot-switch" for="ot-group-id-C0004"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Targeting Cookies</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0004">These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="C0003"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-C0003" aria-labelledby="ot-header-id-C0003"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0003">Functional Cookies</h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-C0003" id="ot-group-id-C0003" role="switch" class="category-switch-handler" data-optanongroupid="C0003" aria-labelledby="ot-header-id-C0003"> <label class="ot-switch" for="ot-group-id-C0003"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Functional Cookies</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0003">These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="C0001"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-C0001" aria-labelledby="ot-header-id-C0001 ot-status-id-C0001"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-C0001">Strictly Necessary Cookies</h4><div id="ot-status-id-C0001" class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-C0001">These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.</p></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="IAB2V2_1"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-IAB2V2_1" aria-labelledby="ot-header-id-IAB2V2_1"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-IAB2V2_1">Store and/or access information on a device<span class="ot-pur-vdr-count"> 679 partners can use this purpose </span></h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-IAB2V2_1" id="ot-group-id-IAB2V2_1" role="switch" class="category-switch-handler" data-optanongroupid="IAB2V2_1" aria-labelledby="ot-header-id-IAB2V2_1"> <label class="ot-switch" for="ot-group-id-IAB2V2_1"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Store and/or access information on a device</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-IAB2V2_1">Cookies, device or similar online identifiers (e.g. login-based identifiers, randomly assigned identifiers, network based identifiers) together with other information (e.g. browser type and information, language, screen size, supported technologies etc.) can be stored or read on your device to recognise it each time it connects to an app or to a website, for one or several of the purposes presented here.</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="IAB2V2_1">List of IAB Vendors‎</button><button class="ot-link-btn ot-pgph-link" aria-label="View Illustrations" data-parent-id="IAB2V2_1">&nbsp;|&nbsp;View Illustrations&nbsp;</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="V2STACK42"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-V2STACK42" aria-labelledby="ot-header-id-V2STACK42"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-V2STACK42">Personalised advertising and content, advertising and content measurement, audience research and services development<span class="ot-pur-vdr-count"> 801 partners can use this purpose </span></h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-V2STACK42" id="ot-group-id-V2STACK42" role="switch" class="category-switch-handler" data-optanongroupid="V2STACK42" aria-labelledby="ot-header-id-V2STACK42"> <label class="ot-switch" for="ot-group-id-V2STACK42"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Personalised advertising and content, advertising and content measurement, audience research and services development</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_2"><h5>Use limited data to select advertising<span class="ot-pur-vdr-count"> 632 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_2" role="switch" data-optanongroupid="IAB2V2_2" class="cookie-subgroup-handler" aria-label="Use limited data to select advertising"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_2"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Advertising presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you).</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_2">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_3"><h5>Create profiles for personalised advertising<span class="ot-pur-vdr-count"> 502 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_3" role="switch" data-optanongroupid="IAB2V2_3" class="cookie-subgroup-handler" aria-label="Create profiles for personalised advertising"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_3"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Information about your activity on this service (such as forms you submit, content you look at) can be stored and combined with other information about you (for example, information from your previous activity on this service and other websites or apps) or similar users. This is then used to build or improve a profile about you (that might include possible interests and personal aspects). Your profile can be used (also later) to present advertising that appears more relevant based on your possible interests by this and other entities.</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_3">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_4"><h5>Use profiles to select personalised advertising<span class="ot-pur-vdr-count"> 502 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_4" role="switch" data-optanongroupid="IAB2V2_4" class="cookie-subgroup-handler" aria-label="Use profiles to select personalised advertising"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_4"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Advertising presented to you on this service can be based on your advertising profiles, which can reflect your activity on this service or other websites or apps (like the forms you submit, content you look at), possible interests and personal aspects.</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_4">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_5"><h5>Create profiles to personalise content<span class="ot-pur-vdr-count"> 223 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_5" role="switch" data-optanongroupid="IAB2V2_5" class="cookie-subgroup-handler" aria-label="Create profiles to personalise content"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_5"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Information about your activity on this service (for instance, forms you submit, non-advertising content you look at) can be stored and combined with other information about you (such as your previous activity on this service or other websites or apps) or similar users. This is then used to build or improve a profile about you (which might for example include possible interests and personal aspects). Your profile can be used (also later) to present content that appears more relevant based on your possible interests, such as by adapting the order in which content is shown to you, so that it is even easier for you to find content that matches your interests.</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_5">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_6"><h5>Use profiles to select personalised content<span class="ot-pur-vdr-count"> 199 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_6" role="switch" data-optanongroupid="IAB2V2_6" class="cookie-subgroup-handler" aria-label="Use profiles to select personalised content"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_6"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Content presented to you on this service can be based on your content personalisation profiles, which can reflect your activity on this or other services (for instance, the forms you submit, content you look at), possible interests and personal aspects. This can for example be used to adapt the order in which content is shown to you, so that it is even easier for you to find (non-advertising) content that matches your interests.</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_6">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_7"><h5>Measure advertising performance<span class="ot-pur-vdr-count"> 729 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_7" role="switch" data-optanongroupid="IAB2V2_7" class="cookie-subgroup-handler" aria-label="Measure advertising performance"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_7"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Information regarding which advertising is presented to you and how you interact with it can be used to determine how well an advert has worked for you or other users and whether the goals of the advertising were reached. For instance, whether you saw an ad, whether you clicked on it, whether it led you to buy a product or visit a website, etc. This is very helpful to understand the relevance of advertising campaigns.</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_7">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_8"><h5>Measure content performance<span class="ot-pur-vdr-count"> 363 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_8" role="switch" data-optanongroupid="IAB2V2_8" class="cookie-subgroup-handler" aria-label="Measure content performance"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_8"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Information regarding which content is presented to you and how you interact with it can be used to determine whether the (non-advertising) content e.g. reached its intended audience and matched your interests. For instance, whether you read an article, watch a video, listen to a podcast or look at a product description, how long you spent on this service and the web pages you visit etc. This is very helpful to understand the relevance of (non-advertising) content that is shown to you.</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_8">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_9"><h5>Understand audiences through statistics or combinations of data from different sources<span class="ot-pur-vdr-count"> 457 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_9" role="switch" data-optanongroupid="IAB2V2_9" class="cookie-subgroup-handler" aria-label="Understand audiences through statistics or combinations of data from different sources"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_9"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Reports can be generated based on the combination of data sets (like user profiles, statistics, market research, analytics data) regarding your interactions and those of other users with advertising or (non-advertising) content to identify common characteristics (for instance, to determine which target audiences are more receptive to an ad campaign or to certain contents).</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_9">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_10"><h5>Develop and improve services<span class="ot-pur-vdr-count"> 544 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_10" role="switch" data-optanongroupid="IAB2V2_10" class="cookie-subgroup-handler" aria-label="Develop and improve services"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_10"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Information about your activity on this service, such as your interaction with ads or content, can be very helpful to improve products and services and to build new products and services based on user interactions, the type of audience, etc. This specific purpose does not include the development or improvement of user profiles and identifiers.</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_10">View Illustrations&nbsp;</button></li></ul></div><div class="ot-subgrp-cntr"><ul class="ot-subgrps"><li class="ot-subgrp" data-optanongroupid="IAB2V2_11"><h5>Use limited data to select content<span class="ot-pur-vdr-count"> 140 partners can use this purpose </span></h5><div class="ot-tgl-cntr ot-subgrp-tgl"><div class="ot-tgl"><input type="checkbox" name="switch" id="ot-sub-group-id-IAB2V2_11" role="switch" data-optanongroupid="IAB2V2_11" class="cookie-subgroup-handler" aria-label="Use limited data to select content"> <label class="ot-switch" for="ot-sub-group-id-IAB2V2_11"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Switch Label</span></label> </div></div><p class="ot-subgrp-desc">Content presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type, or which content you are (or have been) interacting with (for example, to limit the number of times a video or an article is presented to you).</p><button class="ot-link-btn ot-pgph-link ot-pgph-link-subgroup" aria-label="View Illustrations" data-parent-id="IAB2V2_11">View Illustrations&nbsp;</button></li></ul></div><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="V2STACK42">List of IAB Vendors‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="ISF2V2_1"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-ISF2V2_1" aria-labelledby="ot-header-id-ISF2V2_1"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-ISF2V2_1">Use precise geolocation data<span class="ot-pur-vdr-count"> 253 partners can use this special feature </span></h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-ISF2V2_1" id="ot-group-id-ISF2V2_1" role="switch" class="category-switch-handler" data-optanongroupid="ISF2V2_1" aria-labelledby="ot-header-id-ISF2V2_1"> <label class="ot-switch" for="ot-group-id-ISF2V2_1"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Use precise geolocation data</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-ISF2V2_1">With your acceptance, your precise location (within a radius of less than 500 metres) may be used in support of the purposes explained in this notice.</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="ISF2V2_1">List of IAB Vendors‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="ISF2V2_2"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-ISF2V2_2" aria-labelledby="ot-header-id-ISF2V2_2"></button><!-- Accordion header --><div class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-ISF2V2_2">Actively scan device characteristics for identification<span class="ot-pur-vdr-count"> 129 partners can use this special feature </span></h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-ISF2V2_2" id="ot-group-id-ISF2V2_2" role="switch" class="category-switch-handler" data-optanongroupid="ISF2V2_2" aria-labelledby="ot-header-id-ISF2V2_2"> <label class="ot-switch" for="ot-group-id-ISF2V2_2"><span class="ot-switch-nob"></span> <span class="ot-label-txt">Actively scan device characteristics for identification</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-ISF2V2_2">With your acceptance, certain characteristics specific to your device might be requested and used to distinguish it from other devices (such as the installed fonts or plugins, the resolution of your screen) in support of the purposes explained in this notice.</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="ISF2V2_2">List of IAB Vendors‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="ISP2V2_1"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-ISP2V2_1" aria-labelledby="ot-header-id-ISP2V2_1 ot-status-id-ISP2V2_1"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-ISP2V2_1">Ensure security, prevent and detect fraud, and fix errors<span class="ot-pur-vdr-count"> 515 partners can use this special purpose </span></h4><div id="ot-status-id-ISP2V2_1" class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-ISP2V2_1">Your data can be used to monitor for and prevent unusual and possibly fraudulent activity (for example, regarding advertising, ad clicks by bots), and ensure systems and processes work properly and securely. It can also be used to correct any problems you, the publisher or the advertiser may encounter in the delivery of content and ads and in your interaction with them.</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="ISP2V2_1">List of IAB Vendors‎</button><button class="ot-link-btn ot-pgph-link" aria-label="View Illustrations" data-parent-id="ISP2V2_1">&nbsp;|&nbsp;View Illustrations&nbsp;</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="ISP2V2_2"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-ISP2V2_2" aria-labelledby="ot-header-id-ISP2V2_2 ot-status-id-ISP2V2_2"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-ISP2V2_2">Deliver and present advertising and content<span class="ot-pur-vdr-count"> 515 partners can use this special purpose </span></h4><div id="ot-status-id-ISP2V2_2" class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-ISP2V2_2">Certain information (like an IP address or device capabilities) is used to ensure the technical compatibility of the content or advertising, and to facilitate the transmission of the content or ad to your device.</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="ISP2V2_2">List of IAB Vendors‎</button><button class="ot-link-btn ot-pgph-link" aria-label="View Illustrations" data-parent-id="ISP2V2_2">&nbsp;|&nbsp;View Illustrations&nbsp;</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="ISP2V2_3"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-ISP2V2_3" aria-labelledby="ot-header-id-ISP2V2_3 ot-status-id-ISP2V2_3"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-ISP2V2_3">Save and communicate privacy choices<span class="ot-pur-vdr-count"> 363 partners can use this special purpose </span></h4><div id="ot-status-id-ISP2V2_3" class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-ISP2V2_3">The choices you make regarding the purposes and entities listed in this notice are saved and made available to those entities in the form of digital signals (such as a string of characters). This is necessary in order to enable both this service and those entities to respect such choices.</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="ISP2V2_3">List of IAB Vendors‎</button><button class="ot-link-btn ot-pgph-link" aria-label="View Illustrations" data-parent-id="ISP2V2_3">&nbsp;|&nbsp;View Illustrations&nbsp;</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="IFE2V2_1"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-IFE2V2_1" aria-labelledby="ot-header-id-IFE2V2_1 ot-status-id-IFE2V2_1"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-IFE2V2_1">Match and combine data from other data sources<span class="ot-pur-vdr-count"> 365 partners can use this feature </span></h4><div id="ot-status-id-IFE2V2_1" class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-IFE2V2_1">Information about your activity on this service may be matched and combined with other information relating to you and originating from various sources (for instance your activity on a separate online service, your use of a loyalty card in-store, or your answers to a survey), in support of the purposes explained in this notice.</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="IFE2V2_1">List of IAB Vendors‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="IFE2V2_2"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-IFE2V2_2" aria-labelledby="ot-header-id-IFE2V2_2 ot-status-id-IFE2V2_2"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-IFE2V2_2">Link different devices<span class="ot-pur-vdr-count"> 319 partners can use this feature </span></h4><div id="ot-status-id-IFE2V2_2" class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-IFE2V2_2">In support of the purposes explained in this notice, your device might be considered as likely linked to other devices that belong to you or your household (for instance because you are logged in to the same service on both your phone and your computer, or because you may use the same Internet connection on both devices).</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="IFE2V2_2">List of IAB Vendors‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="IFE2V2_3"><button aria-expanded="false" ot-accordion="true" aria-controls="ot-desc-id-IFE2V2_3" aria-labelledby="ot-header-id-IFE2V2_3 ot-status-id-IFE2V2_3"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group"><div class="ot-plus-minus"><span></span><span></span></div><h4 class="ot-cat-header" id="ot-header-id-IFE2V2_3">Identify devices based on information transmitted automatically<span class="ot-pur-vdr-count"> 492 partners can use this feature </span></h4><div id="ot-status-id-IFE2V2_3" class="ot-always-active">Always Active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" id="ot-desc-id-IFE2V2_3">Your device might be distinguished from other devices based on information it automatically sends when accessing the Internet (for instance, the IP address of your Internet connection or the type of browser you are using) in support of the purposes exposed in this notice.</p><div class="ot-vlst-cntr"><button class="ot-link-btn category-vendors-list-handler" aria-label="IAB Vendor Details button opens Vendor List menu" data-parent-id="IFE2V2_3">List of IAB Vendors‎</button></div></div></div><!-- Groups sections starts --><!-- Group section ends --><!-- Accordion Group section starts --><!-- Accordion Group section ends --></section></div><section id="ot-pc-lst" class="ot-hide ot-hosts-ui ot-pc-scrollbar"><div id="ot-pc-hdr"><div id="ot-lst-title"><button class="ot-link-btn back-btn-handler" aria-label="Back"><svg id="ot-back-arw" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 444.531 444.531" xml:space="preserve"><title>Back Button</title><g><path fill="#656565" d="M213.13,222.409L351.88,83.653c7.05-7.043,10.567-15.657,10.567-25.841c0-10.183-3.518-18.793-10.567-25.835
                     l-21.409-21.416C323.432,3.521,314.817,0,304.637,0s-18.791,3.521-25.841,10.561L92.649,196.425
                     c-7.044,7.043-10.566,15.656-10.566,25.841s3.521,18.791,10.566,25.837l186.146,185.864c7.05,7.043,15.66,10.564,25.841,10.564
                     s18.795-3.521,25.834-10.564l21.409-21.412c7.05-7.039,10.567-15.604,10.567-25.697c0-10.085-3.518-18.746-10.567-25.978

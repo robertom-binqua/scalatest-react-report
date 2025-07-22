@@ -20,7 +20,7 @@ namespace TestsReferences {
                                     "originalLocation": "scenario_ordinal_1_3/original/1_ON_ENTER_PAGE.png",
                                     "sourceLocation": "scenario_ordinal_1_3/sources/1_ON_ENTER_PAGE.txt",
                                     "pageUrl": "http://localhost:8081/home.html",
-                                    "index": 1,
+                                    "id": "ss_1",
                                     "pageTitle": "Home",
                                     "screenshotMoment": "ON_ENTER_PAGE"
                                 },
@@ -28,7 +28,7 @@ namespace TestsReferences {
                                     "originalLocation": "scenario_ordinal_1_3/original/2_ON_EXIT_PAGE.png",
                                     "sourceLocation": "scenario_ordinal_1_3/sources/2_ON_EXIT_PAGE.txt",
                                     "pageUrl": "http://localhost:8081/page1.html",
-                                    "index": 2,
+                                    "id": "ss_2",
                                     "pageTitle": "Page 1",
                                     "screenshotMoment": "ON_EXIT_PAGE"
                                 }
@@ -63,7 +63,7 @@ namespace TestsReferences {
                                     "originalLocation": "scenario_ordinal_1_3/original/1_ON_ENTER_PAGE.png",
                                     "sourceLocation": "scenario_ordinal_1_3/sources/1_ON_ENTER_PAGE.txt",
                                     "pageUrl": "http://localhost:8081/home.html",
-                                    "index": 1,
+                                    "id": "ss_1",
                                     "pageTitle": "Home",
                                     "screenshotMoment": "ON_ENTER_PAGE"
                                 },
@@ -71,7 +71,7 @@ namespace TestsReferences {
                                     "originalLocation": "scenario_ordinal_1_3/original/2_ON_EXIT_PAGE.png",
                                     "sourceLocation": "scenario_ordinal_1_3/sources/2_ON_EXIT_PAGE.txt",
                                     "pageUrl": "http://localhost:8081/page1.html",
-                                    "index": 2,
+                                    "id": "ss_2",
                                     "pageTitle": "Page 1",
                                     "screenshotMoment": "ON_EXIT_PAGE"
                                 }
@@ -112,7 +112,7 @@ namespace TestsReferences {
                                     "originalLocation": "scenario_ordinal_1_3/original/1_ON_ENTER_PAGE.png",
                                     "sourceLocation": "scenario_ordinal_1_3/sources/1_ON_ENTER_PAGE.txt",
                                     "pageUrl": "http://localhost:8081/home.html",
-                                    "index": 1,
+                                    "id": "ss_1",
                                     "pageTitle": "Home",
                                     "screenshotMoment": "ON_ENTER_PAGE"
                                 }
@@ -142,7 +142,7 @@ namespace TestsReferences {
                                     "originalLocation": "scenario_ordinal_1_3/original/1_ON_ENTER_PAGE.png",
                                     "sourceLocation": "scenario_ordinal_1_3/sources/1_ON_ENTER_PAGE.txt",
                                     "pageUrl": "http://localhost:8081/home.html",
-                                    "index": 1,
+                                    "id": "ss_1",
                                     "pageTitle": "Home",
                                     "screenshotMoment": "ON_ENTER_PAGE"
                                 },
@@ -150,7 +150,7 @@ namespace TestsReferences {
                                     "originalLocation": "scenario_ordinal_1_3/original/2_ON_EXIT_PAGE.png",
                                     "sourceLocation": "scenario_ordinal_1_3/sources/2_ON_EXIT_PAGE.txt",
                                     "pageUrl": "http://localhost:8081/page1.html",
-                                    "index": 2,
+                                    "id": "ss_2",
                                     "pageTitle": "Page 1",
                                     "screenshotMoment": "ON_EXIT_PAGE"
                                 }

@@ -8,7 +8,7 @@ export interface ScreenshotReport {
     originalLocation: string,
     sourceLocation: string,
     pageUrl: string,
-    index: number,
+    id: string,
     pageTitle: string,
     screenshotMoment: string
 }
@@ -65,8 +65,20 @@ export interface ScreenshotSearchResult {
     t: string
     f: string
     s: string
-    ss: number
+    ss: string
 }
 
 export type SearchResultTestSelection = | TestSelected | FeatureSelected | ScenarioSearchResult | ScreenshotSearchResult
+
+export interface LunrDocumentEntry {
+    ref: string;
+    url: string;
+    title: string;
+    bodyWithNoHtmlTags: string;
+    body: string;
+}
+
+export interface LunrDocument {
+    entries: LunrDocumentEntry[]
+}
 
